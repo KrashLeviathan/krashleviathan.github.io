@@ -1,14 +1,14 @@
 ---
 layout:    about
-permalink: "/cv"
-author:    jdecent
-keywords:  about person demo example
-title:     Jekyll Decent CV
-menutitle: CV
-weight:    70
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+permalink: "/resume"
+author:    nkarasch
+keywords:  about resume experience employment education skills school application hiring
+title:     Resume
+menutitle: Resume
+weight:    90
+excerpt:   This page contains the author's resume.
 ---
-{% assign cv = site.data.cv.[page.author] %}
+{% assign cv = site.data.resume.[page.author] %}
 
 <div class="md-card no-border">
     <p>{{cv.profile}}</p>
@@ -31,7 +31,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
     <div class="title icon-library">
         <h2>Education</h2>
     </div>
-    {% for entry in cv.education %}   
+    {% for entry in cv.education %}
     <dl>
         <dt class="time">{{entry.time}}</dt>
         <dd>

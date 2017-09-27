@@ -5,12 +5,12 @@
 
 # Site settings
 title:            KrashDev.com
-subtitle:         Nathan Karasch's Portfolio
+subtitle:         The Software Engineering Portfolio for Nathan Karasch
 description:      This is the portfolio site for Nathan Karasch, Software Engineer.
 keywords:         software development portfolio engineering projects blog resume
 language:         "en"
 
-baseurl:          "/" # the subpath of your site, e.g. /blog
+baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/mountain-cover.jpg
