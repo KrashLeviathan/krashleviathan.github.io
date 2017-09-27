@@ -13,7 +13,7 @@ language:         "en"
 baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
-cover:            /assets/mountain-cover.jpg
+cover:            /assets/fireworks-scaled.jpg
 disqus_shortname: "krashdev"
 
 # Build settings
