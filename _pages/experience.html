@@ -11,19 +11,6 @@ excerpt:   This page contains information about the author's employment, educati
 {% assign cv = site.data.resume.[page.author] %}
 
 <div class="md-card shadow">
-    <h2>SE494 Requirements</h2>
-    <div>
-        <h3>Internship/Co-op/Technical work experience (show all)</h3>
-        <ul>
-            <li>Duties and project definitions</li>
-            <li>Skills learned – technical and non-technical</li>
-            <li>Evaluations</li>
-            <li>Final presentations to your managers</li>
-        </ul>
-    </div>
-</div>
-
-<div class="md-card shadow">
     <div class="title icon-stats-bars">
         <h2>Skills & Experience</h2>
     </div>
@@ -70,4 +57,18 @@ excerpt:   This page contains information about the author's employment, educati
         </div>
     </div>
     {% endfor %}
+</div>
+
+<div class="md-card shadow">
+    <div class="title icon-stats-bars2">
+        <h2>Relevant Coursework</h2>
+    </div>
+    <div class="content">
+        <dl class="coursework">
+            {% for course in cv.courses %}
+            <dt><a href="{{ course.link }}" target="_blank">{{ course.code }}</a></dt>
+            <dd>{{ course.title }}</dd>
+            {% endfor %}
+        </dl>
+    </div>
 </div>
