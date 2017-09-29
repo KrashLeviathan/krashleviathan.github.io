@@ -10,6 +10,12 @@ excerpt:   This page contains examples of the author's work.
 ---
 {% assign cv = site.data.resume.[page.author] %}
 
+<div class="md-card no-border bufbottom">
+    <p>Here you'll find a sampling of projects I've worked on over the past few years. Most
+        of them are relatively small projects for school. Some were done in teams, and others
+        were done individually. Each has helped grow me as a Software Engineer.</p>
+</div>
+
 {% for project in cv.projects %}
 <div class="md-card shadow project">
     <div class="meta">
