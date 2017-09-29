@@ -10,23 +10,6 @@ excerpt:   This page contains examples of the author's work.
 ---
 {% assign cv = site.data.resume.[page.author] %}
 
-<div class="md-card shadow">
-    <h2>SE494 Requirements: Examples of Prior Work</h2>
-    <ul>
-        <li>Minimum of 3 Individual or Group Projects from classes/lab
-            <ul>
-                <li>Emphasize design processes and show final designs or application</li>
-                <li>Define skills/tools acquired in all your examples</li>
-            </ul>
-        </li>
-        <li>Major homework examples, or class presentations/final reports</li>
-        <li>Include a statement of resources you relied on to complete your prior work and problem solving, outside of
-            the classroom and how they helped (e.g. specific professional journals, experts in field, other students,
-            library resources).
-        </li>
-    </ul>
-</div>
-
 {% for project in cv.projects %}
 <div class="md-card shadow project">
     <div class="meta">
