@@ -99,8 +99,15 @@ nkarasch:
           company:          "Iowa State University"
           position:         "Research Assistant"
           responsibilities:
-            - "TODO: Write Responsibilities"
-            - ""
+            - "Originally contracted to develop a web platform to facilitate collection of Dr. Nagle's research data."
+            - "Later contracted to develop a web application to facilitate organization and management of Dr. Meyers's
+               research data."
+            - "Gathered requirements; generated proposals; designed, implemented, and tested the software; and deployed
+               the final products."
+            - "The first piece of software I developed was the L2 Speech Ratings platform. More information can be
+               found on the <a href=\"projects\" target=\"_blank\">Projects</a> page."
+            - "The second iteration of L2 Speech Ratings was as an Amazon Mechanical Turk HIT."
+            - "The application developed for Dr. Meyers was a Drupal website."
         - time:             "05.2017 - 08.2017"
           location:         "Eagan, MN"
           company:          "Leidos"
@@ -134,8 +141,9 @@ nkarasch:
           company:          "Carnival Cruise Lines"
           position:         "Showband Musician"
           responsibilities:
-            - "TODO: Write Responsibilities"
-            - ""
+            - "Lived and worked aboard a cruise ship playing drums."
+            - "Responsible for learning, rehearsing, and performing the music for the various shows."
+            - "Performed in the show band and various lounge bands."
     career_objectives:
         - "TODO"
         - "TODO"
