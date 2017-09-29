@@ -10,18 +10,36 @@ excerpt:   This page contains the author's resume.
 ---
 {% assign cv = site.data.resume.[page.author] %}
 
-<div class="md-card no-border">
-    <p>{{cv.profile}}</p>
+<main class="content" role="main">
+
+<div class="md-card no-border pleft-special">
+    <blockquote>
+        <p>Two roads diverged in a wood,
+            and I &ndash; I took the one less traveled by.<br>
+            And that has made all the difference.</p>
+        <p><cite>&mdash; Robert Frost</cite></p>
+    </blockquote>
 </div>
 
-<div class="md-card">
+<div class="md-card no-border buftop">
     <div class="title">
-        <h2 style="padding-left:0;">Career Objectives</h2>
+        <h2 style="padding-left:0;">Where I've been and where I'm going</h2>
+    </div>
+    {% for line in cv.profile %}
+    <p>{{ line }}</p>
+    {% endfor %}
+</div>
+
+<div class="md-card shadow">
+    <div class="title icon-office">
+        <h2>Career Objectives</h2>
     </div>
     <div class="content">
-        <p>
-            Here are my career objectives.
-        </p>
+        <ul>
+            {% for obj in cv.career_objectives %}
+            <li>{{ obj }}</li>
+            {% endfor %}
+        </ul>
     </div>
 </div>
 
@@ -33,3 +51,4 @@ excerpt:   This page contains the author's resume.
         <iframe src='assets/Resume - Nathan Karasch.pdf' frameborder='0' style="width:100%;"></iframe>
     </div>
 </div>
+</main>

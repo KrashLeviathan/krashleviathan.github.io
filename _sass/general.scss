@@ -238,3 +238,8 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
+@media screen and (min-width: 500px){
+  .pleft-special {
+    padding-left: 4em !important;
+  }
+}

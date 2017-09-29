@@ -1,5 +1,14 @@
 nkarasch:
-    profile: "Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat."
+    profile:
+        - "I've had a long and strange journey to arrive at the place I am today, but I wouldn't change it for the
+           world! I think my unique background has made me well-rounded and gives me additional insight into the
+           different challenges I encounter. Having been a lifeguard, valet attendant, professional musician, window
+           washer, US Marine, HVAC technician, and now Software Engineer, I do well at adapting to most situations."
+        - "Most of my experience so far has been in full stack web development, but I love learning new technologies
+           and applying myself in different areas. One of the things I love about software development is the ability
+           to create something tangible that can benefit and delight users. My primary passion in my younger days was
+           creating music, but now I get to pour my energies into creating software! I believe in continual
+           reinvention of self and striving to learn more, do more, and achieve more every day."
     skills:
         - "Java, Google Dart, Angular2, ANTLR"
         - "JavaScript, Php, MySql, HTML, SCSS/CSS"
@@ -127,6 +136,10 @@ nkarasch:
           responsibilities:
             - "TODO: Write Responsibilities"
             - ""
+    career_objectives:
+        - "TODO"
+        - "TODO"
+        - "TODO"
     projects:
         - time:             "2 months in 2017"
           team:             ""
