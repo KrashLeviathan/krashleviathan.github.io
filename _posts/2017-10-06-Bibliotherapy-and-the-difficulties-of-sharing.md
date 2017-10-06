@@ -52,6 +52,8 @@ it can help to plan a creative activity to stimulate thought about the topic. Th
 drawing, writing, blogging, vlogging, acting out situations, or singing songs. Find something
 appropriate to your child’s age level that would keep him or her engaged.
 
+**[Click here for more suggestions from Dr. McIntyre's site](http://www.behavioradvisor.com/Biblio.html){:target="_blank"}**
+
 The counselors at TreeHouse Counseling (2015) offer the following additional tips, with an emphasis
 on using bibliotherapy with older children:
 
