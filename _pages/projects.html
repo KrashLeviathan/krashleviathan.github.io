@@ -23,7 +23,7 @@ excerpt:   This page contains examples of the author's work.
         <div class="time">{{project.time}}</div>
     </div>
     <div class="content">
-        <h2>{{project.title}}</h2>
+        <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
         <ul>
             {% for responsibility in project.responsibilities %}
             <li>{{responsibility}}</li>

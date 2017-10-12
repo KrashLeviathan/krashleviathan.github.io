@@ -153,19 +153,24 @@ nkarasch:
           team:             ""
           title:            "L2 Speech Ratings"
           technologies:     "Php, JavaScript"
+          url:              "/project/l2_speech_ratings"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
         - time:             "3 months in 2017"
           team:             "Team of 4"
           title:            "SmartSync"
           technologies:     "Angular2, Spring Boot (Java), HTML, CSS, bash"
+          url:              "/project/smartsync"
           responsibilities:
-            - "This is one of the projects I plan on talking about. More details to follow."
+            - "An online dashboard application to sync a user's accounts, IoT devices, and other tech."
+            - "Used Angular2 SB Admin framework for the frontend."
+            - "Backend consisted of a Java Spring microservices architecture."
             - "<a href=\"http://projects.krashdev.com/smartsync\" target=\"_blank\">Click Here for Reference Data</a>"
         - time:             "2 weeks in 2016"
           team:             ""
           title:            "Codable Media Mashup"
           technologies:     "Java, ANTLR, bash"
+          url:              "/project/codable_media_mashup"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
             - "<a href=\"http://projects.krashdev.com/codable_media_mashup\" target=\"_blank\">Click Here for Reference Data</a>"
@@ -173,6 +178,7 @@ nkarasch:
           team:             "Team of 4"
           title:            "Mines of MIDIa"
           technologies:     "JavaScript, Php, HTML, CSS"
+          url:              "/project/mines_of_midia"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
             - "<a href=\"http://projects.krashdev.com/mines_of_midia\" target=\"_blank\">Click Here for Reference Data</a>"
@@ -180,13 +186,15 @@ nkarasch:
           team:             ""
           title:            "browser_cli"
           technologies:     "Dart, HTML, CSS"
+          url:              "/project/browser_cli"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
             - "<a href=\"http://projects.krashdev.com/browser_cli\" target=\"_blank\">Click Here for Reference Data</a>"
         - time:             "1 week in 2016"
           team:             ""
           title:            "nextbus"
-          technologies:     "C++"
+          technologies:     "C++, XML"
+          url:              "/project/nextbus"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
             - "<a href=\"http://projects.krashdev.com/nextbus\" target=\"_blank\">Click Here for Reference Data</a>"
@@ -194,6 +202,7 @@ nkarasch:
           team:             ""
           title:            "Beatnik Encryption"
           technologies:     "JavaScript, Php, HTML, CSS"
+          url:              "/project/beatnik_encryption"
           responsibilities:
             - "This is one of the projects I plan on talking about. More details to follow."
             - "<a href=\"http://projects.krashdev.com/beatnik_encryption\" target=\"_blank\">Click Here for Reference Data</a>"
