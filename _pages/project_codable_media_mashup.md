@@ -1,21 +1,17 @@
 ---
-layout:    page
+layout:    project
 permalink: "/project/codable_media_mashup"
 author:    nkarasch
 keywords:  Software Engineering portfolio project ISU iastate ComS319 ANTLR Java Programming Language
 title:     Codable Media Mashup
 menutitle: Codable Media Mashup
 visible:   false
-excerpt:   
+excerpt:   A language. A command line tool. A quick and dirty video editor for the power user.
+imageurls:
+  - "/assets/projects/comm_banner.png"
+  - "/assets/projects/comm_screenshot_1.png"
+  - "/assets/projects/comm_screenshot_2.png"
 --- 
-
-<h3 class="author-info">A language. A command line tool. A quick and dirty video editor for the power user.</h3>
-
-<div class="album">
-    <img src="{{site.baseurl}}/assets/projects/comm_banner.png">
-    <img src="{{site.baseurl}}/assets/projects/comm_screenshot_1.png">
-    <img src="{{site.baseurl}}/assets/projects/comm_screenshot_2.png">
-</div>
 
 ## Overview
 

@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<h3 class="author-info">{{page.excerpt}}</h3>
+
+<div class="album">
+    {% for url in page.imageurls %}
+    <img src="{{site.baseurl}}/{{url}}">
+    {% endfor %}
+</div>
+
+{{content}}

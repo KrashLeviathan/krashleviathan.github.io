@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    project
 permalink: "/project/smartsync"
 author:    nkarasch
 keywords:  Software Engineering portfolio project ISU iastate SE339 Angular2 Spring boot Java microservices
@@ -7,22 +7,17 @@ title:     SmartSync
 menutitle: SmartSync
 visible:   false
 excerpt:   An online dashboard application to sync a user's accounts, IoT devices, and other tech.
+imageurls:
+  - "/assets/projects/smartsync_screenshot_01.png"
+  - "/assets/projects/smartsync_screenshot_02.png"
+  - "/assets/projects/smartsync_screenshot_03.png"
+  - "/assets/projects/smartsync_screenshot_04.png"
+  - "/assets/projects/smartsync_screenshot_05.png"
+  - "/assets/projects/smartsync_screenshot_06.png"
+  - "/assets/projects/smartsync_screenshot_07.png"
+  - "/assets/projects/smartsync_screenshot_08.png"
+  - "/assets/projects/smartsync_screenshot_09.png"
 --- 
-
-<h3 class="author-info">An online dashboard application to sync a user's accounts, IoT devices, and other tech.</h3>
-
-<div class="album">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_01.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_02.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_03.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_04.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_05.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_06.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_07.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_08.png">
-    <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_09.png">
-</div>
-
 
 ## Overview
 
