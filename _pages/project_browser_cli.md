@@ -13,9 +13,17 @@ imageurls:
   - "/assets/projects/browser_cli_block_diagram.png"
 --- 
 
-This project explored creating a command line interface that runs in the browser, combining two types of interfaces into a unique user experience. The application was written in Dart, a language developed by Google that transpiles to JavaScript to run in the browser.
+This project explored creating a command line interface that runs in the browser,
+combining two types of interfaces into a unique user experience. The application
+was written in Dart, a language developed by Google that transpiles to JavaScript
+to run in the browser.
 
-The hardest part of the project was, of course, trying to replicate a bash command line with process management. For it to be useful to users at all, it needed to provide core functionality that users expect from a command line. Scope creep started to slow down development momentum, so eventually I had to nail down what features I wanted in release v1.0.0 and settle for additional features in later releases. The desired functionality for the first release was as follows:
+The hardest part of the project was, of course, trying to replicate a bash command
+line with process management. For it to be useful to users at all, it needed to
+provide core functionality that users expect from a command line. Scope creep
+started to slow down development momentum, so eventually I had to nail down what
+features I wanted in release v1.0.0 and settle for additional features in later
+releases. The desired functionality for the first release was as follows:
 
 - Interactive IO
 - Process management
@@ -28,7 +36,8 @@ The set of standard library processes in v1.0.0 includes:
 
 <dl>
     <dt>authentication</dt>
-    <dd>loads user/session information from the document cookies and (in later versions) will authenticate the user’s credentials.</dd>
+    <dd>loads user/session information from the document cookies and (in later
+        versions) will authenticate the user’s credentials.</dd>
     <dt>echo</dt>
     <dd>prints the supplied input back to the shell.</dd>
     <dt>export</dt>
@@ -40,7 +49,8 @@ The set of standard library processes in v1.0.0 includes:
     <dt>printenv</dt>
     <dd>prints all environment variables.</dd>
     <dt>testinput</dt>
-    <dd>demonstrates how to get user input from within a process and how to call other commands from within a process.</dd>
+    <dd>demonstrates how to get user input from within a process and how to call
+        other commands from within a process.</dd>
     <dt>unset</dt>
     <dd>erases an environment variable.</dd>
 </dl>
