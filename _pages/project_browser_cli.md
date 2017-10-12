@@ -6,7 +6,7 @@ keywords:  Software Engineering portfolio project ISU iastate ComS319 Dart shell
 title:     browser_cli
 menutitle: browser_cli
 visible:   false
-excerpt:   A command line interface for the browser.
+excerpt:   An extensible command line interface for the browser.
 imageurls:
   - "/assets/projects/browser_cli_screenshot_1.png"
   - "/assets/projects/browser_cli_screenshot_2.png"
@@ -55,6 +55,15 @@ The set of standard library processes in v1.0.0 includes:
     <dd>erases an environment variable.</dd>
 </dl>
 
+<div class="md-card shadow">
+    <div class="title icon-briefcase">
+        <h2>View the full write-up</h2>
+    </div>
+    <div class="content">
+        <iframe src='{{site.baseurl}}/assets/pdfs/Portfolio1-browser_cli.pdf' frameborder='0' style="width:100%;"></iframe>
+    </div>
+</div>
+
 <div class="md-card shadow education">
     <div class="title icon-link">
         <h2>Links and Other Info</h2>
@@ -64,9 +73,13 @@ The set of standard library processes in v1.0.0 includes:
         <dd><a href="https://github.com/KrashLeviathan/browser_cli" target="_blank">
             github.com/KrashLeviathan/browser_cli
         </a></dd>
-        <dt>Website</dt>
+        <dt>Dart Package</dt>
         <dd><a href="https://pub.dartlang.org/packages/browser_cli" target="_blank">
             pub.dartlang.org/packages/browser_cli
+        </a></dd>
+        <dt>Live Demo</dt>
+        <dd><a href="https://krashleviathan.github.io/browser_cli/" target="_blank">
+            krashleviathan.github.io/browser_cli
         </a></dd>
         <dt>Started</dt>
         <dd>18 August 2016</dd>

@@ -196,8 +196,9 @@ nkarasch:
           technologies:     "Dart, HTML, CSS"
           url:              "/project/browser_cli"
           responsibilities:
-            - "This is one of the projects I plan on talking about. More details to follow."
-            - "<a href=\"http://projects.krashdev.com/browser_cli\" target=\"_blank\">Click Here for Reference Data</a>"
+            - "An extensible command line interface for the browser."
+            - "Combines the benefits of a web UI with the look and feel of a command line interface, meaning that power users get the quick, command-entry interaction they love while still being able to output whatever HTML content you would normally see in a web application."
+            - "Comes with a set of standard library processes, but allows the user to easily create custom processes specific to their own needs."
         - time:             "1 week in 2016"
           team:             ""
           title:            "nextbus"
