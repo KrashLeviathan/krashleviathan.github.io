@@ -9,6 +9,8 @@ visible:   false
 excerpt:   An online dashboard application to sync a user's accounts, IoT devices, and other tech.
 --- 
 
+<h3 class="author-info">An online dashboard application to sync a user's accounts, IoT devices, and other tech.</h3>
+
 <div class="album">
     <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_01.png">
     <img src="{{site.baseurl}}/assets/projects/smartsync_screenshot_02.png">
@@ -37,9 +39,11 @@ Our Minimal Viable Product for Smart Sync consisted of the following:
 
 <div class="md-card shadow education">
     <div class="title icon-link">
-        <h2>Links</h2>
+        <h2>Links and Other Info</h2>
     </div>
     <dl class="coursework">
+        <dt>Authors</dt>
+        <dd>Nathan Karasch, Jack Meyer, Gregory Steenhagen, and Trevor Hendersen</dd>
         <dt>Front-end Repository</dt>
         <dd><a href="https://github.com/KrashLeviathan/SmartSync-Dashboard" target="_blank">
             github.com/KrashLeviathan/SmartSync-Dashboard
@@ -56,6 +60,10 @@ Our Minimal Viable Product for Smart Sync consisted of the following:
         <dd><a href="{{site.baseurl}}/assets/pdfs/SmartSync_Architecture_Evolution.pdf" target="_blank">
             SmartSync_Architecture_Evolution.pdf
         </a></dd>
+        <dt>Started</dt>
+        <dd>February 2017</dd>
+        <dt>Completed</dt>
+        <dd>May 2017</dd>
     </dl>
 </div>
 
