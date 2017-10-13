@@ -213,5 +213,6 @@ nkarasch:
           technologies:     "JavaScript, Php, HTML, CSS"
           url:              "/project/beatnik_encryption"
           responsibilities:
-            - "This is one of the projects I plan on talking about. More details to follow."
-            - "<a href=\"http://projects.krashdev.com/beatnik_encryption\" target=\"_blank\">Click Here for Reference Data</a>"
+            - "Uses the esoteric language Beatnik to encrypt/decrypt a base64-encoded string."
+            - "The string, once encrypted, looks like an avant-garde poem."
+            - "Beatnik, a stack-based language, uses the Scrabble score of words as the program's operations and values."

@@ -67,6 +67,15 @@ is ever extended in the future, it would be a good idea to explore some other wo
 APIs, since RandomText.me’s API has a limited selection. The “learning” growth starts to level
 out between 3000 and 4000 words.
 
+<div class="md-card shadow">
+    <div class="title icon-briefcase">
+        <h2>View the full write-up</h2>
+    </div>
+    <div class="content">
+        <iframe src='{{site.baseurl}}/assets/pdfs/Portfolio2-BeatnikEncryption.pdf' frameborder='0' style="width:100%;"></iframe>
+    </div>
+</div>
+
 <div class="md-card shadow education">
     <div class="title icon-link">
         <h2>Links and Other Info</h2>
@@ -78,7 +87,7 @@ out between 3000 and 4000 words.
         <dd><a href="https://github.com/KrashLeviathan/beatnik_encryption" target="_blank">
             github.com/KrashLeviathan/beatnik_encryption
         </a></dd>
-        <dt>Website</dt>
+        <dt>Live Website</dt>
         <dd><a href="http://beatnikencryption.krashdev.com/" target="_blank">
             beatnikencryption.krashdev.com/
         </a></dd>
