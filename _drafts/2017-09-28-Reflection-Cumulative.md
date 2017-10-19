@@ -5,6 +5,7 @@ menutitle:         "Reflecting on my ISU experience"
 category:          Reflections
 author:            nkarasch
 tags:              Cumulative Reflection SE494 ISU
+visible: false
 ---
 
 ## Cumulative Reflection Requirements
