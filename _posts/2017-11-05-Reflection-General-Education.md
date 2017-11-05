@@ -1,10 +1,10 @@
 ---
 layout:            post
-title:             "Thoughts on General Education and Lifelong Learning"
-menutitle:         "General Education and Lifelong Learning"
+title:             "Thoughts on the General Education Experience"
+menutitle:         "Thoughts on General Education"
 category:          Reflections
 author:            nkarasch
-tags:              Education Learning Reflection SE494 ISU
+tags:              Education
 ---
 
 <figure>

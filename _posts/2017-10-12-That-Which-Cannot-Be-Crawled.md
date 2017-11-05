@@ -4,7 +4,7 @@ title:             "That Which Cannot Be Crawled"
 menutitle:         "That Which Cannot Be Crawled"
 category:          Tech Musings
 author:            nkarasch
-tags:              Web Crawler Sinkhole
+tags:              Spider Traps
 ---
 
 In the spring of 2017, one of the

@@ -4,7 +4,7 @@ title:             "\"No, that's mine!\""
 menutitle:         "\"No, that's mine!\""
 category:          College Writings
 author:            nkarasch
-tags:              HDFS240 Bibliotherapy Project ISU
+tags:              Bibliotherapy
 ---
 
 <figure>
@@ -200,24 +200,24 @@ on using bibliotherapy with older children:
 
 ### Works Cited
 
-American Library Association. (2017). *Bibliotherapy*. Retrieved from http://www.ala.org/tools/atoz/bibliotherapy
+<div class="in-container"><p class="hanging-indent">American Library Association. (2017). <i>Bibliotherapy</i>. Retrieved from http://www.ala.org/tools/atoz/bibliotherapy</p></div>
 
-Bardhan-Quallen, S. & Clark, D. (2007). *The Mine-O-Saur*. New York, NY: Putnam Juvenile.
+<div class="in-container"><p class="hanging-indent">Bardhan-Quallen, S. & Clark, D. (2007). <i>The Mine-O-Saur</i>. New York, NY: Putnam Juvenile.</p></div>
 
-Lionni, L. (1996). *It's mine!* New York, NY: Dragonfly Books.
+<div class="in-container"><p class="hanging-indent">Lionni, L. (1996). <i>It's mine!</i> New York, NY: Dragonfly Books.</p></div>
 
-McIntyre, T. (2014). *Bibliotherapy*. Retrieved from http://www.behavioradvisor.com/Biblio.html
+<div class="in-container"><p class="hanging-indent">McIntyre, T. (2014). <i>Bibliotherapy</i>. Retrieved from http://www.behavioradvisor.com/Biblio.html</p></div>
 
-Pfister, M. (1992). *The rainbow fish*. New York, NY: NorthSouth Books.
+<div class="in-container"><p class="hanging-indent">Pfister, M. (1992). <i>The rainbow fish</i>. New York, NY: NorthSouth Books.</p></div>
 
-TreeHouse Counseling. (2015, April 29). *Bibliotherapy: A safe place to feel*. Retrieved from http://www.treehousecounseling.com/bibliotherapy/
+<div class="in-container"><p class="hanging-indent">TreeHouse Counseling. (2015, April 29). <i>Bibliotherapy: A safe place to feel</i>. Retrieved from http://www.treehousecounseling.com/bibliotherapy/</p></div>
 
-University of Pittsburgh Office of Child Development. (n.d.). *You & your child: Sharing*. http://www.ocd.pitt.edu/Files/PDF/Parenting/Sharing.pdf
+<div class="in-container"><p class="hanging-indent">University of Pittsburgh Office of Child Development. (n.d.). <i>You & your child: Sharing</i>. http://www.ocd.pitt.edu/Files/PDF/Parenting/Sharing.pdf</p></div>
 
-Reiss, M. & Catrow, D. (2008). *The boy who wouldn't share*. New York, NY: HarperCollins.
+<div class="in-container"><p class="hanging-indent">Reiss, M. & Catrow, D. (2008). <i>The boy who wouldn't share</i>. New York, NY: HarperCollins.</p></div>
 
-Rosen, M. & Graham, B. (1996). *This is our house*. Somerville, MA: Candlewick.
+<div class="in-container"><p class="hanging-indent">Rosen, M. & Graham, B. (1996). <i>This is our house</i>. Somerville, MA: Candlewick.</p></div>
 
-Willems, M. (2011). *Should I share my ice cream?* New York, NY: Disney-Hyperion.
+<div class="in-container"><p class="hanging-indent">Willems, M. (2011). <i>Should I share my ice cream?</i> New York, NY: Disney-Hyperion.</p></div>
 
-Yolen, J. & Teague, M. (2006). *How do dinosaurs play with their friends?* New York, NY: Scholastic Inc.
+<div class="in-container"><p class="hanging-indent">Yolen, J. & Teague, M. (2006). <i>How do dinosaurs play with their friends?</i> New York, NY: Scholastic Inc.</p></div>
