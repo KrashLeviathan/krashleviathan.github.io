@@ -48,7 +48,7 @@ there's a much more efficient route to get where I am today.
 
 That's where GenEds come in. Just as my unorthodox journey made
 me well-rounded and gave me perspective, so too do general
-education courses. They're designed to make you well-rounded,
+education courses. They're designed to make you versatile,
 giving you a foundational understanding of the world as well as
 a broader perspective that can help shed light and wisdom on
 the challenges you face in your personal or professional life.
@@ -71,7 +71,10 @@ with Empathy, described by Knct Lab (2015) as follows:
 >
 > <cite>—[The 5 steps of Design Thinking](http://www.knctlab.com/blog/5-steps-design-thinking){:target="_blank"}</cite>
 
-In my Design Cultures class (DSN S 183), we talked a lot about this
+To empathize with our users, we need to be able to view the world through
+their eyes. You need perspective. This is the sort of thing that general
+education electives offer. In my Design Cultures class (DSN S 183),
+we talked a lot about this
 design thinking process and how it is applied to "wicked" problems.
 The [Austin Center for Design](http://www.ac4d.com/) (2012) defines a wicked
 problem as...
@@ -90,7 +93,7 @@ are faced with. The Design Cultures course itself falls outside the
 engineering curriculum, but the perspective it offers can be directly
 applied to the way we engineers think about problems.
 
-Now, while I chose Design Cultures specifically for its close ties to
+While I chose Design Cultures specifically for its close ties to
 engineering, I have experienced other similar benefits from classes
 I did not expect to. For example, in the second semester of my sophomore
 year I took Introduction to American Government (POL S 215) out of a
@@ -156,7 +159,7 @@ College of Engineering. I wasn't especially excited to learn the diversity
 element, but it turned out to be very engaging. Growing up in small-town
 Iowa, it was easy to overlook the issue of social inequality in our country.
 Not that I was oblivious to the fact, but it was never an evident issue
-in my community, so I wasn't directly impacted by it and didn't think
+in my own community, so I wasn't directly impacted by it and didn't think
 about it. However, engineering is a very multi-national, diverse field,
 and you find yourself often working with people from all walks of life.
 Having taken a course that focuses some of its efforts on diversity,
