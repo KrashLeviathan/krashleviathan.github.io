@@ -223,6 +223,7 @@
 .post-list .post,
 .pagination,
 .site-footer,
+.single-post .post-content > div.in-container,
 .single-post .post-content > h1,
 .single-post .post-content > h2,
 .single-post .post-content > h3,
@@ -283,7 +284,9 @@ dl.coursework {
     }
 }
 
-hanging-indent {
-    padding-left: 6em;
-    text-indent: -4em;
+.hanging-indent {
+    margin-left: 4em !important;
+    &:first-of-type {
+        text-indent: -4em !important;
+    }
 }
