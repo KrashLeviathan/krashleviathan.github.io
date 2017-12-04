@@ -19,8 +19,9 @@ and see if any of it makes sense. During my time at Iowa State...
 
 1. My wife and I had 2 kids within 14 months of each other.
 2. We bought a house.
-3. I founded and (briefly) ran a [club](https://www.stuorg.iastate.edu/site/web-dev-club) on campus.
-4. We started a small business from scratch.
+3. I founded and (briefly) ran a <a href="https://www.stuorg.iastate.edu/site/web-dev-club" target="_blank">club</a>
+   on campus.
+4. Ashlee and I started a small business from scratch.
 5. Aside from paid summer internships, I didn't really have to work during my
    time at school.
 
@@ -50,8 +51,8 @@ job placement upon graduation.
 Last, but not least, I need to thank my family and friends for their emotional,
 financial, and spiritual support through everything. My and my wife's parents
 have been tremendously supportive, and their gifts also played a large part in
-providing for our family these past four years. Within our first year in Ames,
-Ashlee and I moved *three times* (good grief), and there was always a crowd of
+providing for our family these past four years. Within our first **year** (singular) in Ames,
+Ashlee and I moved *three times* (good grief!), and there was always a crowd of
 friends and family willing to help us do what nobody likes to help do! The
 prayers, emotional support, and encouragement also helped us say afloat during
 rough patches and difficult times. *So thank you everyone! You made us feel 
@@ -62,21 +63,19 @@ by God's grace that we made it to where we are today. Any glance back over
 such a tumultuous time of growth requires you to take stock of what you have
 to be thankful for. If we lose sight of that, we lose a little bit of what it
 means to be human. Knowing that your success is not your own is humbling, and
-it allows you to have compassion on those who are not as fortunate.
+it allows you to show compassion and grace to those who are less fortunate than you.
 
 <figure>
    <img src="/portfolio/assets/oliver-with-hat.jpg"/>
 </figure>
 
-## Reflecting on My ISU Experience
-
-### Preparing Professionals
+## Preparing Professionals
 
 The goal of any engineering program is to train and equip students to become
 professionals. Professional problem solvers in a given domain. We're trained
-in the entire lifecycle of a project, from conception to completion, and we're
-given enough hands-on experience to develop good habits, reliable instincts,
-and a systematic approach.
+in the entire life cycle of project development, from conception to completion, and we're
+given enough hands-on experience to solidify conceptual understanding and to
+develop good habits, reliable instincts, and a systematic approach.
 
 As with many learning experiences in life, you get out of it what you put into
 it. Students in the Software Engineering program get the chance to do project
@@ -97,8 +96,8 @@ years:
     </div>
     <div class="content">
         <dl class="coursework">
-            <dt>ME 170*</dt>
-            <dd>Used Solidworks to create multiview drawings and models for a
+            <dt>ME 170&nbsp;<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></dt>
+            <dd>Used Solidworks to create multi-view drawings and models for a
                <a href="/portfolio/assets/me170_coffee_maker_poster.pdf" target="_blank">reverse engineered coffee maker</a>, a
                <a href="/portfolio/assets/me170_portfolio_drawings.pdf" target="_blank">shop table clamp</a>, and a
                custom robotic <a href="/portfolio/assets/me170_drink_mixer_report.pdf" target="_blank">drink mixer</a>.</dd>
@@ -184,7 +183,7 @@ tactfully and persuasively, without antagonizing the other team members?
 Working as a team also helps give fresh perspective on problems that you would
 not have thought of otherwise.
 
-### Learning to Learn Quickly
+## Learning to Learn Quickly
 
 I saw a great programming humor t-shirt that read as follows:
 
@@ -203,7 +202,7 @@ Joking aside, it's true that we do a lot of Googling as programmers! And not jus
 from lack of experience or forgetfulness. Choosing a career in software development
 means keeping pace with the times, and technology changes at a ridiculously fast
 rate. The framework of today is a dinosaur in only a few short years. At Iowa State,
-I've worked in Java, JavaScript, C, C++, Python, Php, Dart, HTMl, CSS, MySQL, Perl,
+I've worked in Java, JavaScript, C, C++, Python, Php, Dart, HTML, CSS, MySQL, Perl,
 Angular, Angular2, ANTLR, Verilog, Matlab, Solidworks, Bash, Assembly, Java Spring,
 and on and on and on. Languages, libraries, frameworks, development tools, IDEs,
 operating systems, and all the other technologies that you deal with are just a
@@ -234,7 +233,7 @@ Christmas break is taking an online course at Udemy.com covering
 testing</a>. It's not something that was taught in any of my courses, but it's
 something that fascinates me!
 
-### Finishing My Degree
+## Finishing My Degree
 
 At the time of writing this post, I am two weeks away from finishing my second-to-last
 semester at Iowa State. I think there is very little I would change about my
@@ -244,4 +243,14 @@ projects I have the tendency to say, "Ah! If only I knew then what I know now, w
 a difference that would have made! I could have made it so much better!" But I
 guess that in itself is evidence of growth. Being able to look back at your work
 with pride but without ever being fully satisfied... that means that you are
-continuing on an upward trajectory towards better mastery of your craft.
+continuing on an upward trajectory towards better mastery of your craft.&nbsp;&#9632;
+
+- - -
+
+<div class="footnotes">
+ <ol>
+   <li id="fn:1">
+     <p>I began as a Mechanical Engineering major and switched to Software Engineering after my first year.&nbsp;<a href="#fnref:1" class="reversefootnote">↩</a></p>
+   </li>
+ </ol>
+</div>
