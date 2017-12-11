@@ -290,3 +290,16 @@ dl.coursework {
         text-indent: -4em !important;
     }
 }
+
+@media screen and (min-width: 750px){
+    .hide-when-big {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .center-content-when-small {
+        width: 250px;
+        margin: 0 auto;
+    }
+}

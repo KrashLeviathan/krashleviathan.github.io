@@ -41,7 +41,7 @@ there's a much more efficient route to get where I am today.
 
 <aside>
    <figure class="left">
-      <img src="{{ "/assets/afghanistan_construction.jpg#left" | absolute_url }}" />
+      <img src="{{ "/assets/marinecorps/afghanistan_construction.jpg#left" | absolute_url }}" />
 	  <figcaption>My time in the Marine Corps helped broaden my perspective.</figcaption>
    </figure>
 </aside>
