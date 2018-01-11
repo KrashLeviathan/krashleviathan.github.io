@@ -1,7 +1,7 @@
 # KrashDev.com Portfolio
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
 
-**Live Site:** [https://krashleviathan.github.io/portfolio/](https://krashleviathan.github.io/portfolio/)
+**Live Site:** [https://krashleviathan.github.io/](https://krashleviathan.github.io/)
 
 This portfolio site was made for ComS 494 at Iowa State University.
 The site theme is based on the [Jekyll](https://jekyllrb.com/docs/home/) template

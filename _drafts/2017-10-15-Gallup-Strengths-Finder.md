@@ -26,7 +26,7 @@ The results report can be seen below:
         <h2>Gallup Report</h2>
     </div>
     <div class="content">
-        <iframe src='/portfolio/assets/GallupReport.pdf' frameborder='0' style="width:100%;"></iframe>
+        <iframe src='{{site.baseurl}}/assets/GallupReport.pdf' frameborder='0' style="width:100%;"></iframe>
     </div>
 </div>
 

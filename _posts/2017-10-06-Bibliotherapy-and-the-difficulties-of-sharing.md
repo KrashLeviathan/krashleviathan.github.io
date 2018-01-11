@@ -8,7 +8,7 @@ tags:              Bibliotherapy
 ---
 
 <figure>
-   <img src="/portfolio/assets/bibliotherapy-books/Operation_game_modified.jpg"/>
+   <img src="{{site.baseurl}}/assets/bibliotherapy-books/Operation_game_modified.jpg"/>
    <figcaption>Image Source:
        <a href="https://upload.wikimedia.org/wikipedia/en/3/39/Operation_game.jpg" target="_blank">Wikipedia</a>
    </figcaption>
@@ -79,7 +79,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/rainbow-fish.jpg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/rainbow-fish.jpg" style="height:200px;width:auto;">
         </figure></aside>
         <p>This book is about a beautiful fish with colorful, shiny scales who finds himself an outcast because
             of the way he treats the other fish, refusing to play or share with them. After seeking advice from
@@ -97,7 +97,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/boy-who-wouldnt-share.png" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/boy-who-wouldnt-share.png" style="height:200px;width:auto;">
         </figure></aside>
         <p>“Edward was a frightful boy…” the book begins. And he is! He won’t share anything with his sister,
         until he finally comes to the realization that he hasn’t been very nice. With a change of heart, “The
@@ -112,7 +112,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/should-i-share.jpg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/should-i-share.jpg" style="height:200px;width:auto;">
         </figure></aside>
         <p>This is one of the many books in the popular Elephant & Piggie series. In this story, Elephant has
         a comical internal struggle as he decides whether or not he should share his ice cream cone with his
@@ -128,7 +128,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/mine-o-saur.jpg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/mine-o-saur.jpg" style="height:200px;width:auto;">
         </figure></aside>
         <p>The dinosaurs in school and on the playground grow annoyed with the “Mine-O-saur” classmate who
         is always taking everything and claiming, “MINE! MINE! MINE!” When everyone loses interest in him,
@@ -144,7 +144,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/its-mine.jpg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/its-mine.jpg" style="height:200px;width:auto;">
         </figure></aside>
         <p>Three frogs constantly bicker and quarrel about everything, constantly saying, “It’s mine!”
         When they face a frightening storm together, they make a new friend and learn the value of
@@ -158,7 +158,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/how-do-dinosaurs-play.jpeg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/how-do-dinosaurs-play.jpeg" style="height:200px;width:auto;">
         </figure></aside>
         <p>The “How Do Dinosaurs…” series is a popular choice among children and adults, and this entry
         covers the topic of sharing. In similar fashion as other books in the series, the first half
@@ -175,7 +175,7 @@ on using bibliotherapy with older children:
     </div>
     <div class="content">
         <aside><figure>
-            <img src="/portfolio/assets/bibliotherapy-books/this-is-our-house.jpg" style="height:200px;width:auto;">
+            <img src="{{site.baseurl}}/assets/bibliotherapy-books/this-is-our-house.jpg" style="height:200px;width:auto;">
         </figure></aside>
         <p>The main character in the story doesn’t want to share his “house” (a cardboard box) with any
         of the other kids on the playground, saying such things as, “it’s not for girls,” or “it’s not

@@ -8,7 +8,7 @@ tags:              Education
 ---
 
 <figure>
-   <img src="/portfolio/assets/volkswagen-pexels-photo-75384.jpg"/>
+   <img src="{{site.baseurl}}/assets/volkswagen-pexels-photo-75384.jpg"/>
 </figure>
 
 I remember hearing about the Volkswagen emissions scandal in 2015 and thinking back

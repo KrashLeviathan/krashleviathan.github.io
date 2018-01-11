@@ -8,7 +8,7 @@ tags:              Education
 ---
 
 <figure>
-   <img src="/portfolio/assets/isu-building-in-fall.jpg"/>
+   <img src="{{site.baseurl}}/assets/isu-building-in-fall.jpg"/>
 </figure>
 
 ## First, a Word of Thanks
@@ -66,7 +66,7 @@ means to be human. Knowing that your success is not your own is humbling, and
 it allows you to show compassion and grace to those who are less fortunate than you.
 
 <figure>
-   <img src="/portfolio/assets/oliver-with-hat.jpg"/>
+   <img src="{{site.baseurl}}/assets/oliver-with-hat.jpg"/>
 </figure>
 
 ## Preparing Professionals
@@ -98,9 +98,9 @@ years:
         <dl class="coursework">
             <dt>ME 170&nbsp;<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></dt>
             <dd>Used Solidworks to create multi-view drawings and models for a
-               <a href="/portfolio/assets/me170_coffee_maker_poster.pdf" target="_blank">reverse engineered coffee maker</a>, a
-               <a href="/portfolio/assets/me170_portfolio_drawings.pdf" target="_blank">shop table clamp</a>, and a
-               custom robotic <a href="/portfolio/assets/me170_drink_mixer_report.pdf" target="_blank">drink mixer</a>.</dd>
+               <a href="{{site.baseurl}}/assets/me170_coffee_maker_poster.pdf" target="_blank">reverse engineered coffee maker</a>, a
+               <a href="{{site.baseurl}}/assets/me170_portfolio_drawings.pdf" target="_blank">shop table clamp</a>, and a
+               custom robotic <a href="{{site.baseurl}}/assets/me170_drink_mixer_report.pdf" target="_blank">drink mixer</a>.</dd>
             <dt>Com S 227</dt>
             <dd>Various programming assignments in Java.</dd>
             <dt>Cpr E 281</dt>
@@ -113,25 +113,25 @@ years:
             <dt>Com S 327</dt>
             <dd>Semester-long project in C/C++, where we created a Roguelike game. At the end of the
                 semester, we implemented a short project of our choosing. I created a
-                <a href="/portfolio/project/nextbus" target="_blank">command line application</a> to query the
+                <a href="{{site.baseurl}}/project/nextbus" target="_blank">command line application</a> to query the
                 NextBus API for CyRide routes, stops, and schedules.</dd>
             <dt>Com S 363</dt>
             <dd>Various labs designing and working with relational databases.</dd>
             <dt>Com S 319</dt>
             <dd>Various labs dealing with different languages and frameworks. We also created four portfolio
                 projects of our choosing, all of which are discussed on the
-                <a href="/portfolio/projects" target="_blank">Projects</a> page.</dd>
+                <a href="{{site.baseurl}}/projects" target="_blank">Projects</a> page.</dd>
             <dt>Com S 321</dt>
             <dd>Various labs dealing with computer architecture and machine-level programming (assembly).</dd>
             <dt>SE 329</dt>
             <dd>Designed and created four projects of our choosing. We created 
                 <a href="https://github.com/csteamengine/project_koh" target="_blank">facial recognition system</a>,
                 a <a href="https://github.com/KrashLeviathan/distributed_computing" target="_blank">distributed computing system,</a>
-                a <a href="/portfolio/project/mines_of_midia" target="_blank">MIDI visualization and playback website</a>,
+                a <a href="{{site.baseurl}}/project/mines_of_midia" target="_blank">MIDI visualization and playback website</a>,
                 and a <a href="https://github.com/KrashLeviathan/qwop_ai" target="_blank">game-playing AI</a>.</dd>
             <dt>SE 339</dt>
             <dd>Designed and created an
-                <a href="/portfolio/project/smartsync" target="_blank">Internet of Things management website</a>
+                <a href="{{site.baseurl}}/project/smartsync" target="_blank">Internet of Things management website</a>
                 built on a microservice architecture.</dd>
             <dt>Com S 311</dt>
             <dd>Various programming assignments dealing with computer algorithms (for example, implementing a
@@ -147,7 +147,7 @@ years:
             <dd>Various programming assignments dealing with algorithms for large data sets (for example, computing
                 <a href="https://github.com/KrashLeviathan/coms435_pa2" target="_blank">similarity among documents</a>).</dd>
             <dt>SE 491</dt>
-            <dd>Part 1 of a two-semester long <a href="/portfolio/senior-design" target="_blank">senior design project</a>.</dd>
+            <dd>Part 1 of a two-semester long <a href="{{site.baseurl}}/senior-design" target="_blank">senior design project</a>.</dd>
             <dt>SE 494</dt>
             <dd>This portfolio website!</dd>
         </dl>

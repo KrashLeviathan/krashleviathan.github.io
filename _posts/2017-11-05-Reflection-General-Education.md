@@ -8,7 +8,7 @@ tags:              Education
 ---
 
 <figure>
-   <img src="/portfolio/assets/old_books.jpg"/>
+   <img src="{{site.baseurl}}/assets/old_books.jpg"/>
 </figure>
 
 The greater share of my "general education" experience comes not
