@@ -78,7 +78,7 @@ The set of standard library processes in v1.0.0 includes:
             pub.dartlang.org/packages/browser_cli
         </a></dd>
         <dt>Live Demo</dt>
-        <dd><a href="https://krashleviathan.github.io/browser_cli/" target="_blank">
+        <dd><a href="http://krashdev.com/browser_cli/" target="_blank">
             krashleviathan.github.io/browser_cli
         </a></dd>
         <dt>Started</dt>
