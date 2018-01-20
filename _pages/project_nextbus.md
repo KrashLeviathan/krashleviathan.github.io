@@ -10,6 +10,7 @@ excerpt:   Get NextBus predictions through a command line interface.
 imageurls:
   - "/assets/projects/nextbus_screenshot.png"
   - "/assets/projects/nextbus_raspberry_pi.jpg"
+  - "/assets/projects/nextbus_update_screenshot_20180119.png"
 --- 
 
 This program interfaces with the NextBus REST API to display NextBus information for
@@ -41,6 +42,8 @@ of concept is operational — my next step is to move the logic to a Raspberry P
 model the size of a credit card), design an enclosure in Solidworks, 3D print the enclosure,
 and mount it on my wall for daily use!
 
+Read the [Nextbus Project Update (19 January 2018)](/blog/tech musings/Nextbus-Update) post for information on the latest update!
+
 <div class="md-card shadow education">
     <div class="title icon-link">
         <h2>Links and Other Info</h2>
@@ -54,5 +57,7 @@ and mount it on my wall for daily use!
         <dd>13 April 2016</dd>
         <dt>Completed</dt>
         <dd>20 April 2016</dd>
+		<dt>Last Update</dt>
+		<dd>19 January 2018</dd>
     </dl>
 </div>
