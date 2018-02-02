@@ -1,15 +1,24 @@
 default:                                                      # Fallback if nothing is specified
   initial:      nkarasch                                      # used for author lookup in posts and for first two characters in the about page back button
   name:         "Nathan Karasch"                              # used to display author name
+  givenName:    "Nathan"
+  familyName:   "Karasch"
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/nathankarasch-scaled-square.jpg       # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
   location:     Ames, IA                                      # OPTIONAL: used to display location of the author
+  locationFull:
+    city: Ames
+    state: IA
+    zip: 50010
+    country: USA
   website:      krashdev.com                                  # OPTIONAL: link to the author of a post
   email:        nate@krashdev.com                             # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:     http://www.linkedin.com/in/nathankarasch      # OPTIONAL: used in the about page
-  github:       http://github.com/krashleviathan              # OPTIONAL: used in the about page
+  linkedin:     https://www.linkedin.com/in/nathankarasch/    # OPTIONAL: used in the about page
+  linkedinUsername: nathankarasch
+  github:       https://github.com/krashleviathan/            # OPTIONAL: used in the about page
+  githubUsername: krashleviathan
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page

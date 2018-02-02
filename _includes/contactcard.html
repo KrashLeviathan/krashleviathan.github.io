@@ -1,0 +1,29 @@
+{% assign author = site.data.authors.default %}
+
+<div itemscope itemtype="http://schema.org/Person" class="md-card shadow education">
+    <div class="title icon-mail">
+        <h2>Contact Me</h2>
+    </div>
+    <dl class="coursework">
+        <dt>Location</dt>
+        <dd itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <span itemprop="addressLocality">{{ author.locationFull.city }}</span>,
+            <span itemprop="addressRegion">{{ author.locationFull.state }}</span>
+            <meta itemprop="addressCountry" content="{{ author.locationFull.country }}">
+            <meta itemprop="postalCode" content="{{ author.locationFull.zip }}">
+        </dd>
+        <dt>Email</dt>
+        <dd><a href="mailto:{{ author.email }}">
+            <span itemprop="email">{{ author.email }}</span>
+        </a></dd>
+        <dt>GitHub</dt>
+        <dd><a href="{{ author.github }}" target="_blank">www.github.com/{{ author.githubUsername }}</a></dd>
+        <dt>LinkedIn</dt>
+        <dd><a href="{{ author.linkedin }}" target="_blank">www.linkedin.com/in/{{ author.linkedinUsername }}</a></dd>
+    </dl>
+    <meta itemprop="name" content="{{ author.name }}">
+    <meta itemprop="givenName" content="{{ author.givenName }}">
+    <meta itemprop="familyName" content="{{ author.familyName }}">
+    <meta itemprop="image" content="http://krashdev.com{{ author.picture }}">
+    <meta itemprop="url" content="{{ author.website }}">
+</div>

@@ -5,7 +5,7 @@ layout: about
 <div class="md-card no-border bufbottom">
     <aside class="center-content-when-small">
         <figure class="left" style="">
-            <img src="/assets/nathankarasch-scaled-square.jpg#left" style="">
+            <img src="{{ site.data.authors.default.picture }}#left" style="">
         </figure>
     </aside>
     <div style="float:none;clear:both;" class="hide-when-big"></div>
@@ -23,18 +23,4 @@ layout: about
 
 </div>
 
-<div class="md-card shadow education">
-    <div class="title icon-mail">
-        <h2>Contact Me</h2>
-    </div>
-    <dl class="coursework">
-        <dt>Location</dt>
-        <dd>Ames, IA</dd>
-        <dt>Email</dt>
-        <dd><a href="mailto:nkarasch@iastate.edu">nkarasch@iastate.edu</a></dd>
-        <dt>GitHub</dt>
-        <dd><a href="http://github.com/krashleviathan" target="_blank">www.github.com/krashleviathan</a></dd>
-        <dt>LinkedIn</dt>
-        <dd><a href="http://www.linkedin.com/in/nathankarasch" target="_blank">www.linkedin.com/in/nathankarasch</a></dd>
-    </dl>
-</div>
+{% include contactcard.html %}
