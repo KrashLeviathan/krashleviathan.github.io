@@ -10,18 +10,21 @@ nkarasch:
            creating music, but now I get to pour my energies into creating software! I believe in continual
            reinvention of self and striving to learn more, do more, and achieve more every day."
     skills:
-        - "Java, Google Dart, Angular2, ANTLR"
-        - "JavaScript, Php, MySql, HTML, SCSS/CSS"
-        - "REST, SOAP, Microservices"
+        - "Java, Spring Framework, Java concurrency"
+        - "JavaScript, Node.js, Express.js, React, Angular2"
+        - "Google Dart, Php, HTML, SCSS/CSS, DNS, Amazon Mechanical Turk, Amazon S3"
+        - "MySQL, Firebase, ORM tools, ER modeling, schema design"
+        - "REST, SOAP, API development, Microservices"
         - "Git, Svn, Jetbrains, Eclipse, Atlassian"
-        - "Bash, Perl, Python"
-        - "C, C++"
-        - "Agile Development, Continuous Integration, Full Stack Development"
-        - "Founded Web Development Club in the fall of 2015"
-        - "Unit leadership experience in the Marine Corps and as President/Treasurer of Web Development Club"
-        - "Participated in four HackISU events"
-        - "Headed a cross-browser functionality testing project on my product team at Workiva"
-        - "Headed a refactoring effort to abstract common code to be used by our feature team at Leidos"
+        - "Bash, Perl, Python, Linux"
+        - "C, C++, grammar, programming language design, ANTLR"
+        - "Software Architecture, Design, Development, Security, Integration, Testing, Deployment"
+        - "Agile Development, Project Management, Team Leadership, Continuous Integration/Deployment, Full Stack Development"
+        - "Google Drive, Docs, Calendar, Maps, Sheets, Slides, GMail, Keep, News, Hangouts, Data Studio, Analytics, Tag Manager, AdWords"
+        - "Microsoft Word, Excel, Powerpoint, OneNote, Outlook, Publisher, OneDrive"
+        - "Adobe InDesign, Illustrator, Photoshop, Acrobat"
+        - "Founded ISU Web Development Club in the fall of 2015"
+        - "Unit leadership experience in the Marine Corps and as President of Web Development Club"
     courses:
         - code: "ComS 227"
           title: "Intro to Object Oriented Programming"
@@ -124,7 +127,11 @@ nkarasch:
           company:          "Zirous"
           position:         "Application Developer"
           responsibilities:
-            - "Java development"
+            - "Java development and consultation"
+            - "At Zirous, we've provided IT Solutions to our customers for 30 years. Our ultimate goal is to improve
+               our customer's business process by leveraging cutting edge technologies. We aim to increase efficiency,
+               productivity and profitability with Identity Management, Integration, Data Analytics, Hadoop/Big Data,
+               Cloud, and Database."
             - "This is a new position for me, so I'll update this section with more info soon!"
         - time:             "03.2017 - 12.2017"
           location:         "Ames, IA"
