@@ -1,159 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>http://krashdev.com/</loc>
+  <loc>https://krashdev.com/</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/writings</loc>
+  <loc>https://krashdev.com/writings</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/projects</loc>
+  <loc>https://krashdev.com/projects</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/experience</loc>
+  <loc>https://krashdev.com/experience</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/senior-design</loc>
+  <loc>https://krashdev.com/senior-design</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/resume</loc>
+  <loc>https://krashdev.com/resume</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/tech%20musings/Nextbus-Update</loc>
+  <loc>https://krashdev.com/blog/tech%20musings/Nextbus-Update</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/reflections/Reflection-Cumulative</loc>
+  <loc>https://krashdev.com/blog/reflections/Reflection-Cumulative</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/reflections/Reflection-Ethics</loc>
+  <loc>https://krashdev.com/blog/reflections/Reflection-Ethics</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/reflections/Reflection-General-Education</loc>
+  <loc>https://krashdev.com/blog/reflections/Reflection-General-Education</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/tech%20musings/That-Which-Cannot-Be-Crawled</loc>
+  <loc>https://krashdev.com/blog/tech%20musings/That-Which-Cannot-Be-Crawled</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/blog/college%20writings/Bibliotherapy-and-the-difficulties-of-sharing</loc>
+  <loc>https://krashdev.com/blog/college%20writings/Bibliotherapy-and-the-difficulties-of-sharing</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/l2_speech_ratings</loc>
+  <loc>https://krashdev.com/project/l2_speech_ratings</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/smartsync</loc>
+  <loc>https://krashdev.com/project/smartsync</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/codable_media_mashup</loc>
+  <loc>https://krashdev.com/project/codable_media_mashup</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/mines_of_midia</loc>
+  <loc>https://krashdev.com/project/mines_of_midia</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/browser_cli</loc>
+  <loc>https://krashdev.com/project/browser_cli</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/nextbus</loc>
+  <loc>https://krashdev.com/project/nextbus</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/project/beatnik_encryption</loc>
+  <loc>https://krashdev.com/project/beatnik_encryption</loc>
   <lastmod>2018-01-20T06:21:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/marinecorps/Meritorious_Promotions.pdf</loc>
+  <loc>https://krashdev.com/assets/marinecorps/Meritorious_Promotions.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/marinecorps/NAM-Award.pdf</loc>
+  <loc>https://krashdev.com/assets/marinecorps/NAM-Award.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/marinecorps/CertComs.pdf</loc>
+  <loc>https://krashdev.com/assets/marinecorps/CertComs.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/pdfs/Resume_Nathan_Karasch.pdf</loc>
+  <loc>https://krashdev.com/assets/pdfs/Resume_Nathan_Karasch.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/me170_coffee_maker_poster.pdf</loc>
+  <loc>https://krashdev.com/assets/me170_coffee_maker_poster.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/me170_portfolio_drawings.pdf</loc>
+  <loc>https://krashdev.com/assets/me170_portfolio_drawings.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/me170_drink_mixer_report.pdf</loc>
+  <loc>https://krashdev.com/assets/me170_drink_mixer_report.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/pdfs/SmartSync_Architecture_Evolution.pdf</loc>
+  <loc>https://krashdev.com/assets/pdfs/SmartSync_Architecture_Evolution.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/browser_cli/</loc>
+  <loc>https://krashdev.com/browser_cli/</loc>
   <lastmod>2016-09-28T03:40:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/pdfs/Portfolio1-browser_cli.pdf</loc>
+  <loc>https://krashdev.com/assets/pdfs/Portfolio1-browser_cli.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://krashdev.com/assets/pdfs/Portfolio2-BeatnikEncryption.pdf</loc>
+  <loc>https://krashdev.com/assets/pdfs/Portfolio2-BeatnikEncryption.pdf</loc>
   <lastmod>2018-01-20T06:21:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>

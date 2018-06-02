@@ -179,7 +179,7 @@ their ultimate impact is to make us more effective members of society.
 
 Before graduation in May of 2018, I have a few major short-term goals,
 the most immediate of which is the launching of my wife's start-up
-business, [Lilia Grace](http://www.lilia-grace.com/){:target="_blank"},
+business, [Lilia Grace](https://www.lilia-grace.com/){:target="_blank"},
 on November 13th. I've been helping setup the various online technologies,
 including the website, online store, ShipStation, MailChimp, etc. We're
 excited to see the response at launch, but it really is quite a lot of

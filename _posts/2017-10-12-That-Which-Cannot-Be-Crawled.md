@@ -106,7 +106,7 @@ $quotes = array('Don\'t go on...',
 ```
 
 You can view the code [on GitHub](https://github.com/KrashLeviathan/thatwhichcannotbecrawled){:target="_blank"}
-or check out the [live demo here](http://thatwhichcannotbecrawled.krashdev.com/){:target="_blank"}. I've added
+or check out the [live demo here](https://thatwhichcannotbecrawled.krashdev.com/){:target="_blank"}. I've added
 some extra flair, but the premise remains the same.
 
 So what is the probability you see any given URL? Since the characters are randomly
