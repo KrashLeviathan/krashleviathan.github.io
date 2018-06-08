@@ -138,15 +138,22 @@ nkarasch:
           company:          "Iowa State University"
           position:         "Research Assistant"
           responsibilities:
-            - "Originally contracted to develop a web platform to facilitate collection of Dr. Nagle's research data."
-            - "Later contracted to develop a web application to facilitate organization and management of Dr. Meyers's
-               research data."
+            - "Delivered two unique, scalable solutions for aggregating and managing the clients' research data."
+            - "One solution moved the client’s existing spreadsheet data management process into a relational
+               database with a web interface."
+            - "The other solution played audio samples for the research participants, collected survey responses,
+               stored the survey data alongside correlated demographic information, and provided an administrative
+               interface to upload audio or download survey results. More information on the L2 Speech Ratings platform
+               can be found on the <a href=\"projects\" target=\"_blank\">Projects</a> page."
             - "Gathered requirements; generated proposals; designed, implemented, and tested the software; and deployed
                the final products."
-            - "The first piece of software I developed was the L2 Speech Ratings platform. More information can be
-               found on the <a href=\"projects\" target=\"_blank\">Projects</a> page."
-            - "The second iteration of L2 Speech Ratings was as an Amazon Mechanical Turk HIT."
-            - "The application developed for Dr. Meyers was a Drupal website."
+            - "Leveraged ISU’s Drupal website infrastructure to provide an interface for data management."
+            - "Designed the database schema for both projects, creating custom rules to join tabular data along
+               common keys to reduce duplication and increase data cohesiveness."
+            - "Architected and implemented a custom web application to serve as an audio-rating platform."
+            - "Adapted to client requests to migrate the solution to Amazon Mechanical Turk midway through the project."
+            - "Maintained open lines of communication with the clients to solicit feedback throughout the design and
+               development process to ensure the solution was meeting the client’s goals."
         - time:             "05.2017 - 08.2017"
           location:         "Eagan, MN"
           company:          "Leidos"
