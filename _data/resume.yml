@@ -143,8 +143,8 @@ nkarasch:
                database with a web interface."
             - "The other solution played audio samples for the research participants, collected survey responses,
                stored the survey data alongside correlated demographic information, and provided an administrative
-               interface to upload audio or download survey results. More information on the L2 Speech Ratings platform
-               can be found on the <a href=\"projects\" target=\"_blank\">Projects</a> page."
+               interface to upload audio or download survey results. More information can be found on the
+               <a href=\"project/l2_speech_ratings\" target=\"_blank\">L2 Speech Ratings project page</a>."
             - "Gathered requirements; generated proposals; designed, implemented, and tested the software; and deployed
                the final products."
             - "Leveraged ISU’s Drupal website infrastructure to provide an interface for data management."
