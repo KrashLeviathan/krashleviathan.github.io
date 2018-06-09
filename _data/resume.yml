@@ -131,31 +131,31 @@ nkarasch:
           link: "http://catalog.iastate.edu/search/?P=STAT%20330"
     education:
         - time:             "Jan 2014 - May 2018"
-          location:         "Iowa State University, Ames, IA"
+          location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
           description:      "BS in Software Engineering"
           gpa:              "3.98"
           awards:
-            - "Graduate Summa Cum Laude"
+            - "Graduated Summa Cum Laude"
             - "Named to the Dean's List each semester"
             - "Top 2% of Engineering Juniors - Spring 2015"
             - "Top 2% of Engineering Seniors - Spring 2016"
             - "Top 2% of Engineering Seniors - Spring 2018"
         - time:             "Aug 2013 - Nov 2013"
-          location:         "Mayfield College, Twentynine Palms, CA"
+          location:         "<a href=\"http://www.mayfieldcollege.edu/Side%20-%20HVAC.htm\" target=\"_blank\">Mayfield College, Twentynine Palms, CA</a>"
           description:      "HVAC/R Level I - Electricity Advanced"
           gpa:              "4.0"
         - time:             "Aug 2005 - May 2007"
-          location:         "McNally Smith College of Music, Saint Paul, MN"
+          location:         "<a href=\"https://en.wikipedia.org/wiki/McNally_Smith_College_of_Music\" target=\"_blank\">McNally Smith College of Music, Saint Paul, MN</a>"
           description:      "AAS in Music Performance"
           gpa:              "3.94"
         - time:             "Aug 2001 - May 2005"
-          location:         "Central Lyon High School, Rock Rapids, IA"
+          location:         "<a href=\"https://www.centrallyon.org/\" target=\"_blank\">Central Lyon High School, Rock Rapids, IA</a>"
           description:      "High School Diploma (Valedictorian)"
           gpa:              "4.0"
     employment:
         - time:             "05.2018 - Present"
           location:         "West Des Moines, IA"
-          company:          "Zirous"
+          company:          "<a href=\"https://www.zirous.com/\" target=\"_blank\">Zirous</a>"
           position:         "Application Developer"
           responsibilities:
             - "Java development and consultation"
@@ -166,7 +166,7 @@ nkarasch:
             - "This is a new position for me, so I'll update this section with more info soon!"
         - time:             "03.2017 - 12.2017"
           location:         "Ames, IA"
-          company:          "Iowa State University"
+          company:          "<a href=\"https://www.iastate.edu/\" target=\"_blank\">Iowa State University</a>"
           position:         "Research Assistant"
           responsibilities:
             - "Delivered two unique, scalable solutions for aggregating and managing the clients' research data."
@@ -187,7 +187,7 @@ nkarasch:
                development process to ensure the solution was meeting the clients' goals."
         - time:             "05.2017 - 08.2017"
           location:         "Eagan, MN"
-          company:          "Leidos"
+          company:          "<a href=\"https://www.leidos.com/\" target=\"_blank\">Leidos</a>"
           position:         "College Tech Spec Intern"
           responsibilities:
             - "Iteratively developed and released the next generation of functionality for the Automated Flight Service
@@ -205,14 +205,14 @@ nkarasch:
             - "Delivered status updates and live demos to 100+ stakeholders on a bi-weekly basis."
         - time:             "05.2016 - 08.2016"
           location:         "Ames, IA"
-          company:          "Workiva"
+          company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
           position:         "Software Engineering Intern"
           responsibilities:
             - "Worked on the same spreadsheet application as during the previous summer. This summer, however,
                the product was in production."
         - time:             "05.2015 - 08.2015"
           location:         "Ames, IA"
-          company:          "Workiva"
+          company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
           position:         "Software Engineering Intern"
           responsibilities:
             - "Developed the frontend (Google Dart) for the spreadsheet web application in the Wdesk platform.
@@ -224,7 +224,7 @@ nkarasch:
             - "Worked with the Atlassian software suite (Jira, Bamboo, etc)."
         - time:             "02.2009 - 02.2014"
           location:         "Twentynine Palms, CA"
-          company:          "US Marine Corps"
+          company:          "<a href=\"https://www.marines.com/\" target=\"_blank\">US Marine Corps</a>"
           position:         "Infantry Rifleman"
           responsibilities:
             - "As a Marine 0311 Rifleman, I trained for combat and deployed to combat zones."
@@ -244,7 +244,7 @@ nkarasch:
             - "Named Battalion NCO of the Quarter in 2013."
         - time:             "10.2007 - 02.2008"
           location:         "Miami, FL"
-          company:          "Carnival Cruise Lines"
+          company:          "<a href=\"https://www.carnival.com/\" target=\"_blank\">Carnival Cruise Lines</a>"
           position:         "Showband Musician"
           responsibilities:
             - "Lived and worked aboard a cruise ship playing drums."

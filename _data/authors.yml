@@ -5,12 +5,12 @@ default:                                                      # Fallback if noth
   familyName:   "Karasch"
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/nathankarasch-scaled-square.jpg       # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Ames, IA                                      # OPTIONAL: used to display location of the author
+  bio:          Application Developer at Zirous               # OPTIONAL: text below author name in posts
+  location:     Des Moines, IA                                # OPTIONAL: used to display location of the author
   locationFull:
-    city: Ames
+    city: Des Moines
     state: IA
-    zip: 50010
+    zip: 50310
     country: USA
   website:      krashdev.com                                  # OPTIONAL: link to the author of a post
   email:        nate@krashdev.com                             # OPTIONAL: used in the about page
