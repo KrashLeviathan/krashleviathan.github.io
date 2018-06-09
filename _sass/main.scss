@@ -295,6 +295,11 @@ ul.technologies-list {
     }
 }
 
+.break-heading {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
 @media screen and (min-width: 550px) {
     ul.technologies-list {
         display: inline-block;
