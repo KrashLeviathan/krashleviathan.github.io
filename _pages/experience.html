@@ -65,11 +65,20 @@ excerpt:   This page contains information about the author's employment, educati
         <h2>Technologies</h2>
     </div>
     <div class="content">
-        <ul>
-            {% for technology in cv.technologies %}
+        {% assign tech_size = cv.technologies.size %}
+        {% assign half_index = tech_size | divided_by:2 %}
+        <ul class="technologies-list">
+            {% for technology in cv.technologies limit:half_index %}
             <li>{{ technology }}</li>
             {% endfor %}
         </ul>
+        <ul class="technologies-list">
+            {% for technology in cv.technologies offset:half_index %}
+            <li>{{ technology }}</li>
+            {% endfor %}
+        </ul>
+        <hr>
+
     </div>
 </div>
 
