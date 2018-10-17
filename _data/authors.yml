@@ -13,7 +13,7 @@ default:                                                      # Fallback if noth
     zip: 50310
     country: USA
   website:      krashdev.com                                  # OPTIONAL: link to the author of a post
-  email:        nate@krashdev.com                             # OPTIONAL: used in the about page
+  email:        nate.karasch@zirous.com                       # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
   linkedin:     https://www.linkedin.com/in/nathankarasch/    # OPTIONAL: used in the about page
   linkedinUsername: nathankarasch

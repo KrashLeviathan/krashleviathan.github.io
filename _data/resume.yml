@@ -7,19 +7,19 @@ nkarasch:
         - "Currently I work as an Application Developer at Zirous, an IT consulting company in West Des Moines, IA.
            I have experience designing, developing, and testing software solutions to meet strategic business goals.
            My affinity for learning and mastering new technologies allows me to bring valuable insights to conceptual
-           planning and discussions, allowing the team to choose the right tools needed to deliver high quality results.
+           planning and discussions, enabling the team to choose the right tools needed to deliver high quality results.
            My effective written and verbal communication skills help keep development efforts aligned with customer
            expectations, ensuring the right solution is delivered the first time and reducing wasteful rework. As a
            consultant, I excel at identifying pain points in development processes and presenting thoughtful solutions
-           to maximize efficiency and increase return on investment."
+           to maximize efficiency and increase return on investment. My recent work focus has been in the application
+           of data science and machine learning techniques to build intelligent systems."
         - "One of the things I love about software development is the ability
            to create something tangible that can benefit and delight users. My primary passion in my younger days was
            creating music, but now I get to pour my energies into creating software! I believe in continual
-           reinvention of self and striving to learn more, do more, and achieve more every day."
+           reinvention of self and in striving to learn more, do more, and achieve more every day."
     skills:
         - "Identifying technical solutions to meet strategic business goals"
-        - "Communicating effectively and proactively with clients, team members, and management to facilitate synergy
-           and transparency among all parties"
+        - "Communicating effectively and proactively to facilitate synergy and transparency"
         - "Designing and implementing web-based applications, including user interface, REST API, ER database model,
            microservice architecture, third-party integrations, and security"
         - "Delivering value in all software development phases, including requirements gathering, architecture, design,
@@ -28,9 +28,8 @@ nkarasch:
         - "Effectively presenting technical topics to both technical and non-technical audiences"
         - "Innovating internal tools to streamline development and increase productivity"
         - "Aligning product development to business goals, technical requirements, and end user satisfaction"
-        - "Individually contracted to build unique, scalable solutions for aggregating and managing research data "
-        - "Founded ISU Web Development Club in the fall of 2015"
-        - "Unit leadership experience in the Marine Corps and as President of Web Development Club"
+        - "Training, evaluating, and deploying machine learning models to provide targeted insights"
+        - "Selecting and integrating various cloud services to create scalable project infrastructures"
     technologies:
         - "Java"
         - "Spring framework"
@@ -38,12 +37,13 @@ nkarasch:
         - "MySQL"
         - "Firebase"
         - "Amazon S3"
-        - "REST / SOAP"
+        - "REST / SOAP / RPC"
         - "Git"
         - "Linux"
         - "Bash"
         - "Perl"
         - "Python"
+        - "R"
         - "JavaScript / Node.js"
         - "Express.js"
         - "React / Angular 2"
@@ -52,10 +52,14 @@ nkarasch:
         - "Php"
         - "C / C++"
         - "ANTLR"
+        - "Protocol Buffers"
         - "Jetbrains IDEs"
         - "Google Suite"
         - "Microsoft Office"
         - "Adobe Creative Cloud"
+        - "H2O Driverless AI"
+        - "Scikit-learn"
+        - "XGBoost"
     courses:
         - code: "ComS 227"
           title: "Intro to Object Oriented Programming"
@@ -129,6 +133,30 @@ nkarasch:
         - code: "STAT 330"
           title: "Probability & Statistics for Computer Science"
           link: "http://catalog.iastate.edu/search/?P=STAT%20330"
+        - code: "Udacity"
+          title: "Intro to Machine Learning (ud120)"
+          link: "https://www.udacity.com/course/intro-to-machine-learning--ud120"
+        - code: "Qwiklabs"
+          title: "Baseline: Data, ML, AI"
+          link: "https://run.qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
+        - code: "Qwiklabs"
+          title: "GCP Essentials"
+          link: "https://qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
+        - code: "Lynda"
+          title: "Learning R"
+          link: "http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html"
+        - code: "Lynda"
+          title: "Content Marketing ROI"
+          link: "http://www.lynda.com/Marketing-tutorials/Content-Marketing-ROI/546102-2.html"
+        - code: "Lynda"
+          title: "Google 360 Suite Overview"
+          link: "http://www.lynda.com/Marketing-tutorials/Google-360-Suite-Overview/604251-2.html"
+        - code: "Lynda"
+          title: "Learning Graphic Design: Techniques"
+          link: "http://www.lynda.com/Design-Color-tutorials/Before-After-Graphic-Design-Techniques/110141-2.html"
+        - code: "MOS"
+          title: "Microsoft Office Specialist - Word 2010, Excel 2010"
+          link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
     education:
         - time:             "Jan 2014 - May 2018"
           location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
@@ -158,12 +186,20 @@ nkarasch:
           company:          "<a href=\"https://www.zirous.com/\" target=\"_blank\">Zirous</a>"
           position:         "Application Developer"
           responsibilities:
-            - "Java development and consultation"
             - "At Zirous, we've provided IT Solutions to our customers for 30 years. Our ultimate goal is to improve
                our customer's business process by leveraging cutting edge technologies. We aim to increase efficiency,
                productivity and profitability with Identity Management, Integration, Data Analytics, Hadoop/Big Data,
                Cloud, and Database."
-            - "This is a new position for me, so I'll update this section with more info soon!"
+            - "I currently work as part of the Data Analytics team, with a focus on expanding our machine learning
+               capabilities and our ability to deploy machine learning solutions in a cloud environment. I spend my
+               days developing and supporting software development for clients and/or researching technologies
+               to advance our Data Analytics practice area."
+            - "Our company is generally platform-agnostic, meaning we're not necessarily a 'java shop' or likewise
+               tied to any specific tech stack. We use whatever technology best addresses our clients' needs. That
+               being said, our <a href=\"https://www.zirous.com/partnerships/\" target=\"_blank\">strategic
+               partnerships</a> with companies like Oracle and Hortonworks allow us greater access and support to
+               leverage those technologies in our solutions, so oftentimes the best solution involves using
+               familiar technology and following best practices."
         - time:             "03.2017 - 12.2017"
           location:         "Ames, IA"
           company:          "<a href=\"https://www.iastate.edu/\" target=\"_blank\">Iowa State University</a>"
