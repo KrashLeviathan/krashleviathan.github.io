@@ -24,22 +24,3 @@ default:                                                      # Fallback if noth
   gplus:                                                      # OPTIONAL: used in the about page
   youtube:                                                    # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
-jdecent:
-  initial:      jdecent
-  name:         "Jekyll Decent"       
-  cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/johndoe.jpg  
-  bio:          This is my bio!
-  location:     Germany
-  email:        "-"   
-  twitter:      "-"    
-  twitch:       "-"
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
-  website:      "https://jwillmer.de/cv"
-  twitter:      jenswillmer
-  github:       jwillmer

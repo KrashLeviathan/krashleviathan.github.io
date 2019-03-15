@@ -8,23 +8,32 @@ menutitle: Projects
 weight:    50
 excerpt:   This page contains examples of the author's work.
 ---
-{% assign cv = site.data.resume.[page.author] %}
+{% assign cv = site.data.resume[page.author] %}
 
 <div class="md-card no-border bufbottom">
-    <p>Here you'll find a small sampling of projects I've worked on. Most
-        of them are school projects, since a lot of the work I do now involves non-disclosure
-        agreements.</p>
-    <p class="author-info"><b>Click on the project title for more details about that project.</b></p>
+    <p>Here you'll find a small sampling of projects I've worked on.
+        Click on hyperlinked project titles to display more details,
+        screenshots, etc about a given project.</b></p>
 </div>
 
 {% for project in cv.projects %}
 <div class="md-card shadow project">
     <div class="meta">
-        <div class="team">{{project.team}}</div>
-        <div class="time">{{project.time}}</div>
+        <div class="client">{{project.client}}</div>
+        <div class="position">{{project.position}}</div>
     </div>
     <div class="content">
-        <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
+        <h2>
+            {% if project.url %}
+            <!--suppress HtmlUnknownTarget -->
+            <a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a>
+            {% else %}
+            {{project.title}}
+            {% endif %}
+        </h2>
+        {% if project.description %}
+        <p>{{project.description}}</p>
+        {% endif %}
         <ul>
             {% for responsibility in project.responsibilities %}
             <li>{{responsibility}}</li>

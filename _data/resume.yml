@@ -1,375 +1,431 @@
 nkarasch:
-    profile:
-        - "I've had a long and strange journey to arrive at the place I am today, but I wouldn't change it for the
-           world! I think my unique background has made me well-rounded and gives me additional insight into the
-           different challenges I encounter. Having been a lifeguard, valet attendant, professional musician, window
-           washer, US Marine, HVAC technician, and now Software Engineer, I do well at adapting to most situations."
-        - "Currently I work as an Application Developer at Zirous, an IT consulting company in West Des Moines, IA.
-           I have experience designing, developing, and testing software solutions to meet strategic business goals.
-           My affinity for learning and mastering new technologies allows me to bring valuable insights to conceptual
-           planning and discussions, enabling the team to choose the right tools needed to deliver high quality results.
-           My effective written and verbal communication skills help keep development efforts aligned with customer
-           expectations, ensuring the right solution is delivered the first time and reducing wasteful rework. As a
-           consultant, I excel at identifying pain points in development processes and presenting thoughtful solutions
-           to maximize efficiency and increase return on investment. My recent work focus has been in the application
-           of data science and machine learning techniques to build intelligent systems."
-        - "One of the things I love about software development is the ability
-           to create something tangible that can benefit and delight users. My primary passion in my younger days was
-           creating music, but now I get to pour my energies into creating software! I believe in continual
-           reinvention of self and in striving to learn more, do more, and achieve more every day."
-    skills:
-        - "Identifying technical solutions to meet strategic business goals"
-        - "Communicating effectively and proactively to facilitate synergy and transparency"
-        - "Designing and implementing web-based applications, including user interface, REST API, ER database model,
-           microservice architecture, third-party integrations, and security"
-        - "Delivering value in all software development phases, including requirements gathering, architecture, design,
-           development, integration, testing, and deployment"
-        - "Researching and identifying the best technologies for use within a given project"
-        - "Effectively presenting technical topics to both technical and non-technical audiences"
-        - "Innovating internal tools to streamline development and increase productivity"
-        - "Aligning product development to business goals, technical requirements, and end user satisfaction"
-        - "Training, evaluating, and deploying machine learning models to provide targeted insights"
-        - "Selecting and integrating various cloud services to create scalable project infrastructures"
-    technologies:
-        - "Java"
-        - "Spring framework"
-        - "Java concurrency"
-        - "MySQL"
-        - "Firebase"
-        - "Amazon S3"
-        - "REST / SOAP / RPC"
-        - "Git"
-        - "Linux"
-        - "Bash"
-        - "Perl"
-        - "Python"
-        - "R"
-        - "JavaScript / Node.js"
-        - "Express.js"
-        - "React / Angular 2"
-        - "Google Dart"
-        - "HTML / CSS / SCSS"
-        - "Php"
-        - "C / C++"
-        - "ANTLR"
-        - "Protocol Buffers"
-        - "Jetbrains IDEs"
-        - "Google Suite"
-        - "Microsoft Office"
-        - "Adobe Creative Cloud"
-        - "H2O Driverless AI"
-        - "Scikit-learn"
-        - "XGBoost"
-    courses:
-        - code: "ComS 227"
-          title: "Intro to Object Oriented Programming"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20227"
-        - code: "ComS 228"
-          title: "Intro to Data Structures"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20228"
-        - code: "ComS 230"
-          title: "Discrete Computational Structures"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20230"
-        - code: "ComS 309"
-          title: "Software Development Practices"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20309"
-        - code: "ComS 311"
-          title: "Design & Analysis of Algorithms"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20311"
-        - code: "ComS 319"
-          title: "Software Construction of User Interfaces"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20319"
-        - code: "ComS 321"
-          title: "Intro to Computer Architecture and Machine-Level Programming"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20321"
-        - code: "ComS 327"
-          title: "Advanced Programming Techniques"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20327"
-        - code: "ComS 352"
-          title: "Intro to Operating Systems"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20352"
-        - code: "ComS 363"
-          title: "Intro to Database Management Systems"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20363"
-        - code: "ComS 415"
-          title: "Software System Safety"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20415"
-        - code: "ComS 430"
-          title: "Advanced Programming Tools"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20430"
-        - code: "ComS 435"
-          title: "Algorithms for Large Data Sets"
-          link: "http://catalog.iastate.edu/search/?P=COM%20S%20435"
-        - code: "SE 329"
-          title: "Software Project Management"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20329"
-        - code: "SE 339"
-          title: "Software Architecture & Design"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20339"
-        - code: "SE 342"
-          title: "Principles of Programming Languages"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20342"
-        - code: "SE 417"
-          title: "Software Testing"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20417"
-        - code: "SE 421X"
-          title: "Software Safety Analysis"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20421"
-        - code: "SE 491"
-          title: "Senior Design Project I"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20491"
-        - code: "SE 492"
-          title: "Senior Design Project II"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20492"
-        - code: "SE 494"
-          title: "SE Portfolio Development"
-          link: "http://catalog.iastate.edu/search/?P=S%20E%20494"
-        - code: "CprE 281"
-          title: "Digital Logic with Verilog Design"
-          link: "http://catalog.iastate.edu/search/?P=CPR%20E%20281"
-        - code: "CprE 332"
-          title: "Cyber Defense Competition"
-          link: "http://catalog.iastate.edu/search/?P=CPR%20E%20332"
-        - code: "STAT 330"
-          title: "Probability & Statistics for Computer Science"
-          link: "http://catalog.iastate.edu/search/?P=STAT%20330"
-        - code: "Udacity"
-          title: "Intro to Machine Learning (ud120)"
-          link: "https://www.udacity.com/course/intro-to-machine-learning--ud120"
-        - code: "Qwiklabs"
-          title: "Baseline: Data, ML, AI"
-          link: "https://run.qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
-        - code: "Qwiklabs"
-          title: "GCP Essentials"
-          link: "https://qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
-        - code: "Lynda"
-          title: "Learning R"
-          link: "http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html"
-        - code: "Lynda"
-          title: "Content Marketing ROI"
-          link: "http://www.lynda.com/Marketing-tutorials/Content-Marketing-ROI/546102-2.html"
-        - code: "Lynda"
-          title: "Google 360 Suite Overview"
-          link: "http://www.lynda.com/Marketing-tutorials/Google-360-Suite-Overview/604251-2.html"
-        - code: "Lynda"
-          title: "Learning Graphic Design: Techniques"
-          link: "http://www.lynda.com/Design-Color-tutorials/Before-After-Graphic-Design-Techniques/110141-2.html"
-        - code: "MOS"
-          title: "Microsoft Office Specialist - Word 2010, Excel 2010"
-          link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
-    education:
-        - time:             "Jan 2014 - May 2018"
-          location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
-          description:      "BS in Software Engineering"
-          gpa:              "3.98"
-          awards:
-            - "Graduated Summa Cum Laude"
-            - "Named to the Dean's List each semester"
-            - "Top 2% of Engineering Juniors - Spring 2015"
-            - "Top 2% of Engineering Seniors - Spring 2016"
-            - "Top 2% of Engineering Seniors - Spring 2018"
-        - time:             "Aug 2013 - Nov 2013"
-          location:         "<a href=\"http://www.mayfieldcollege.edu/Side%20-%20HVAC.htm\" target=\"_blank\">Mayfield College, Twentynine Palms, CA</a>"
-          description:      "HVAC/R Level I - Electricity Advanced"
-          gpa:              "4.0"
-        - time:             "Aug 2005 - May 2007"
-          location:         "<a href=\"https://en.wikipedia.org/wiki/McNally_Smith_College_of_Music\" target=\"_blank\">McNally Smith College of Music, Saint Paul, MN</a>"
-          description:      "AAS in Music Performance"
-          gpa:              "3.94"
-        - time:             "Aug 2001 - May 2005"
-          location:         "<a href=\"https://www.centrallyon.org/\" target=\"_blank\">Central Lyon High School, Rock Rapids, IA</a>"
-          description:      "High School Diploma (Valedictorian)"
-          gpa:              "4.0"
-    employment:
-        - time:             "05.2018 - Present"
-          location:         "West Des Moines, IA"
-          company:          "<a href=\"https://www.zirous.com/\" target=\"_blank\">Zirous</a>"
-          position:         "Application Developer"
-          responsibilities:
-            - "At Zirous, we've provided IT Solutions to our customers for 30 years. Our ultimate goal is to improve
-               our customer's business process by leveraging cutting edge technologies. We aim to increase efficiency,
-               productivity and profitability with Identity Management, Integration, Data Analytics, Hadoop/Big Data,
-               Cloud, and Database."
-            - "I currently work as part of the Data Analytics team, with a focus on expanding our machine learning
-               capabilities and our ability to deploy machine learning solutions in a cloud environment. I spend my
-               days developing and supporting software development for clients and/or researching technologies
-               to advance our Data Analytics practice area."
-            - "Our company is generally platform-agnostic, meaning we're not necessarily a 'java shop' or likewise
-               tied to any specific tech stack. We use whatever technology best addresses our clients' needs. That
-               being said, our <a href=\"https://www.zirous.com/partnerships/\" target=\"_blank\">strategic
-               partnerships</a> with companies like Oracle and Hortonworks allow us greater access and support to
-               leverage those technologies in our solutions, so oftentimes the best solution involves using
-               familiar technology and following best practices."
-        - time:             "03.2017 - 12.2017"
-          location:         "Ames, IA"
-          company:          "<a href=\"https://www.iastate.edu/\" target=\"_blank\">Iowa State University</a>"
-          position:         "Research Assistant"
-          responsibilities:
-            - "Delivered two unique, scalable solutions for aggregating and managing the clients' research data."
-            - "One solution moved the client's existing spreadsheet data management process into a relational
-               database with a web interface."
-            - "The other solution played audio samples for the research participants, collected survey responses,
-               stored the survey data alongside correlated demographic information, and provided an administrative
-               interface to upload audio or download survey results. More information can be found on the
-               <a href=\"project/l2_speech_ratings\" target=\"_blank\">L2 Speech Ratings project page</a>."
-            - "Gathered requirements; generated proposals; designed, implemented, and tested the software; and deployed
-               the final products."
-            - "Leveraged ISU’s Drupal website infrastructure to provide an interface for data management."
-            - "Designed the database schema for both projects, creating custom rules to join tabular data along
-               common keys to reduce duplication and increase data cohesiveness."
-            - "Architected and implemented a custom web application to serve as an audio-rating platform."
-            - "Adapted to client requests to migrate the solution to Amazon Mechanical Turk midway through the project."
-            - "Maintained open lines of communication with the clients to solicit feedback throughout the design and
-               development process to ensure the solution was meeting the clients' goals."
-        - time:             "05.2017 - 08.2017"
-          location:         "Eagan, MN"
-          company:          "<a href=\"https://www.leidos.com/\" target=\"_blank\">Leidos</a>"
-          position:         "College Tech Spec Intern"
-          responsibilities:
-            - "Iteratively developed and released the next generation of functionality for the Automated Flight Service
-               Station (AFSS) project's 1800wxbrief.com platform."
-            - "Worked on both frontend (JavaScript) and backend (Java, bash, perl) development efforts to deliver features
-               for the Winds Aloft portion of the platform."
-            - "Quickly identified as the JavaScript expert and trusted to deliver key user functionality."
-            - "Designed and implemented a dependency analysis tool that constructed a graph of script dependencies to
-               facilitate runtime optimization."
-            - "Rewrote several existing scripts to decrease test runtime by multiple orders of magnitude (from several
-               minutes down to a fraction of a second)."
-            - "Architected a major refactor to enable common code reuse."
-            - "Created a browser extension to facilitate more efficient development processes."
-            - "Given a classified clearance level to work on FAA projects."
-            - "Delivered status updates and live demos to 100+ stakeholders on a bi-weekly basis."
-        - time:             "05.2016 - 08.2016"
-          location:         "Ames, IA"
-          company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
-          position:         "Software Engineering Intern"
-          responsibilities:
-            - "Worked on the same spreadsheet application as during the previous summer. This summer, however,
-               the product was in production."
-        - time:             "05.2015 - 08.2015"
-          location:         "Ames, IA"
-          company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
-          position:         "Software Engineering Intern"
-          responsibilities:
-            - "Developed the frontend (Google Dart) for the spreadsheet web application in the Wdesk platform.
-               During this summer, the product was still in research in development."
-            - "Developed new features and fixed bugs in an agile (scrum/kanban) environment."
-            - "Headed a browser compatibility project, delivering key insights to the team for future development."
-            - "Wrote, tested, and reviewed code to deliver high quality results and customer satisfaction."
-            - "Designed and developed an innovative solution to bring a feature in alignment with industry standards."
-            - "Worked with the Atlassian software suite (Jira, Bamboo, etc)."
-        - time:             "02.2009 - 02.2014"
-          location:         "Twentynine Palms, CA"
-          company:          "<a href=\"https://www.marines.com/\" target=\"_blank\">US Marine Corps</a>"
-          position:         "Infantry Rifleman"
-          responsibilities:
-            - "As a Marine 0311 Rifleman, I trained for combat and deployed to combat zones."
-            - "As the Platoon Radio Operator, I operated radio communication equipment in support of a 30+ man element."
-            - "As Training NCO, I facilitated company training by maintaining databases, schedules, and personnel rosters for 180+ Marines."
-            - "As Company Police Sergeant, I interfaced with supply, ordered and inventoried company
-               logistics, scheduled maintenance for the bachelor enlisted quarters, prepared all
-               logistics for transport during field operations, and tracked thousands of rounds of
-               ammunition and high-value items."
-            - "As Company-Level Intelligence Cell NCO In Charge, I lead the company intelligence effort,
-               which included collecting and analyzing data, producing various types of intelligence
-               reports, briefing company leadership, and debriefing combat patrols."
-            - "As a Rifle Squad Leader, I lead and supervised the training and development of a 12 man infantry element."
-            - "<a href=\"/assets/marinecorps/Meritorious_Promotions.pdf\" target=\"_blank\">Meritoriously promoted</a> to Lance Corporal and to Corporal."
-            - "Awarded the <a href=\"/assets/marinecorps/NAM-Award.pdf\" target=\"_blank\">Navy and Marine Corps Achievement Medal</a> for service in Afghanistan."
-            - "Awarded <a href=\"/assets/marinecorps/CertComs.pdf\" target=\"_blank\">four Certificates of Commendation</a> and various other awards during my time in service."
-            - "Named Battalion NCO of the Quarter in 2013."
-        - time:             "10.2007 - 02.2008"
-          location:         "Miami, FL"
-          company:          "<a href=\"https://www.carnival.com/\" target=\"_blank\">Carnival Cruise Lines</a>"
-          position:         "Showband Musician"
-          responsibilities:
-            - "Lived and worked aboard a cruise ship playing drums."
-            - "Responsible for learning, rehearsing, and performing the music for the various shows."
-            - "Performed in the show band and various lounge bands."
-    career_objectives:
-        - "Work at a consulting company where I have the opportunity to work on many different projects and continue to learn and grow my skill set."
-        - "Volunteer my services or contribute in a technical capacity to one or more non-profit organizations."
-        - "Launch a successful start-up business."
-    projects:
-        - title:            "Hammer IO (Senior Design Project)"
-          time:             "2 semesters (Fall 2017, Spring 2018)"
-          team:             "Team of 5"
-          technologies:     "Node.js, Docker, Travis, React, Express.js, GitHub API, Firebase, Heroku, CodeCov"
-          url:              "https://hammer-io.github.io/"
-          responsibilities:
-            - "Created a DevOps framework offering an opinionated approach to developing and managing
-               microservice applications in Node.js"
-            - "Integrated various web services and APIs into the development processes and into the deployed software"
-            - "Designed, implemented, tested, and deployed multiple products supporting the same overarching objective"
-            - "Thoroughly documented the project plans and architecture in preparation for project handoff"
-            - "<a href=\"https://hammer-io.github.io/docs/Final_Report_Spring_2018.pdf\" target=\"_blank\">Final Report</a>"
-            - "<a href=\"https://hammer-io.github.io/docs/Poster_Spring_2018.pdf\" target=\"_blank\">Poster Display (infographic)</a>"
-        - title:            "L2 Speech Ratings"
-          time:             "2 months in 2017"
-          team:             ""
-          technologies:     "Php, JavaScript, HTML, CSS, Bootstrap, AMT"
-          url:              "/project/l2_speech_ratings"
-          responsibilities:
-            - "L2 Speech Ratings was a web application for collecting audio file ratings."
-            - "Facilitated the research of Dr. Charles Nagle in the field of second-language learning."
-            - "Featured the ability to upload files, create rating surveys, collect ratings from users, and download the results as a CSV file."
-            - "Used Google OAuth2 for user login; featured admin user types and rater user types."
-            - "Later adapted the project requirements to use Amazon Mechanical Turk (AMT)"
-        - title:            "SmartSync"
-          time:             "3 months in 2017"
-          team:             "Team of 4"
-          technologies:     "Angular2, Spring Boot (Java), Bootstrap, HTML, CSS, REST, bash"
-          url:              "/project/smartsync"
-          responsibilities:
-            - "An online dashboard application to sync a user's accounts, IoT devices, and other tech."
-            - "Designed and implemented for our semester-long Software Architecture (SE 339) project."
-            - "Used Angular2 SB Admin framework for the frontend."
-            - "The backend consisted of a Java Spring microservices architecture."
-            - "The project was used the following semester by the professor as a case study and as a lab for SE 339 students."
-        - title:            "Codable Media Mashup"
-          time:             "2 weeks in 2016"
-          team:             ""
-          technologies:     "Java, ANTLR, bash"
-          url:              "/project/codable_media_mashup"
-          responsibilities:
-            - "CoMM is a language and CLI interpreter I devised to slice and join online video clips."
-            - "Uses ANTLR to generate the parser and lexer."
-            - "The interpreter transpiles the CoMM language into a shell script, and then executes the shell script."
-            - "As my first attempt at writing a language (the attempt being made before taking Principles of Programming), the functionality is very limited."
-        - title:            "Mines of MIDIa"
-          time:             "2 weeks in 2016"
-          team:             "Team of 4"
-          technologies:     "JavaScript, Php, MIDI, SVG, HTML, CSS"
-          url:              "/project/mines_of_midia"
-          responsibilities:
-            - "Teaches the user to play drums through MIDI file play-alongs and sheet music."
-            - "Allows the user to upload, search for, play, and rate MIDI files."
-            - "Features a visual drumset that highlights which specific drums are being played during playback."
-            - "Generates sheet music from the MIDI file being played."
-        - title:            "browser_cli"
-          time:             "2 months in 2016"
-          team:             ""
-          technologies:     "Dart, HTML, CSS"
-          url:              "/project/browser_cli"
-          responsibilities:
-            - "An extensible command line interface for the browser."
-            - "Combines the benefits of a web UI with the look and feel of a command line interface, meaning that power users get the quick, command-entry interaction they love while still being able to output whatever HTML content you would normally see in a web application."
-            - "Comes with a set of standard library processes, but allows the user to easily create custom processes specific to their own needs."
-        - title:            "nextbus"
-          time:             "1 week in 2016"
-          team:             ""
-          technologies:     "C++, XML, REST"
-          url:              "/project/nextbus"
-          responsibilities:
-            - "Gives NextBus predictions through the command line interface."
-            - "Operates by curling from the NextBus API, parsing relevant information from the XML, and displaying that information to the user."
-            - "Features the ability to save route/stop combinations for easy reference."
-        - title:            "Beatnik Encryption"
-          time:             "1 month in 2016"
-          team:             "Team of 2"
-          technologies:     "JavaScript, Php, HTML, CSS"
-          url:              "/project/beatnik_encryption"
-          responsibilities:
-            - "Uses the esoteric language Beatnik to encrypt/decrypt a base64-encoded string."
-            - "The string, once encrypted, looks like an avant-garde poem."
-            - "Beatnik, a stack-based language, uses the Scrabble score of words as the program's operations and values."
+  profile:
+    - "I've had a long and strange journey to arrive at the place I am today, but I wouldn't change it for the
+       world! I think my unique background has made me well-rounded and gives me additional insight into the
+       different challenges I encounter. Having been a lifeguard, valet attendant, professional musician, window
+       washer, US Marine, HVAC technician, and now Software Engineer, I do well at adapting to most situations."
+    - "Currently I work as an Application Developer at Zirous, an IT consulting company in West Des Moines, IA.
+       I have experience designing, developing, and testing software solutions to meet strategic business goals.
+       My affinity for learning and mastering new technologies allows me to bring valuable insights to conceptual
+       planning and discussions, enabling the team to choose the right tools needed to deliver high quality results.
+       My effective written and verbal communication skills help keep development efforts aligned with customer
+       expectations, ensuring the right solution is delivered the first time and reducing wasteful rework. As a
+       consultant, I excel at identifying pain points in development processes and presenting thoughtful solutions
+       to maximize efficiency and increase return on investment. My recent work focus has been in the application
+       of data science and machine learning techniques to build intelligent systems."
+    - "One of the things I love about software development is the ability
+       to create something tangible that can benefit and delight users. My primary passion in my younger days was
+       creating music, but now I get to pour my energies into creating software! I believe in continual
+       reinvention of self and in striving to learn more, do more, and achieve more every day."
+  skills:
+    - "Identifying technical solutions to meet strategic business goals"
+    - "Communicating effectively and proactively to facilitate synergy and transparency"
+    - "Designing and implementing web-based applications, including user interface, REST API, ER database model,
+       microservice architecture, third-party integrations, and security"
+    - "Delivering value in all software development phases, including requirements gathering, architecture, design,
+       development, integration, testing, and deployment"
+    - "Researching and identifying the best technologies for use within a given project"
+    - "Effectively presenting technical topics to both technical and non-technical audiences"
+    - "Innovating internal tools to streamline development and increase productivity"
+    - "Aligning product development to business goals, technical requirements, and end user satisfaction"
+    - "Training, evaluating, and deploying machine learning models to provide targeted insights"
+    - "Selecting and integrating various cloud services to create scalable project infrastructures"
+  technologies:
+    - "Java"
+    - "Java Spring"
+    - "Java concurrency"
+    - "MySQL"
+    - "Oracle PL/SQL"
+    - "HTML / CSS / SCSS"
+    - "REST / SOAP / RPC"
+    - "JavaScript / Node.js"
+    - "Angular / React"
+    - "Python / R"
+    - "Google Dart / TypeScript"
+    - "Php / Perl"
+    - "C / C++"
+    - "Linux / Bash"
+    - "Git (version control)"
+    - "Docker"
+    - "Travis CI"
+    - "ANTLR"
+    - "Protocol Buffers"
+    - "Google Cloud Platform"
+    - "Amazon Web Services"
+    - "Microsoft Azure"
+    - "Jetbrains Software"
+    - "Atlassian Software"
+    - "Adobe Creative Cloud"
+    - "H2O Driverless AI"
+    - "Scikit-learn"
+    - "XGBoost"
+  courses:
+    - code: "ComS 227"
+      title: "Intro to Object Oriented Programming"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20227"
+    - code: "ComS 228"
+      title: "Intro to Data Structures"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20228"
+    - code: "ComS 230"
+      title: "Discrete Computational Structures"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20230"
+    - code: "ComS 309"
+      title: "Software Development Practices"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20309"
+    - code: "ComS 311"
+      title: "Design & Analysis of Algorithms"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20311"
+    - code: "ComS 319"
+      title: "Software Construction of User Interfaces"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20319"
+    - code: "ComS 321"
+      title: "Intro to Computer Architecture and Machine-Level Programming"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20321"
+    - code: "ComS 327"
+      title: "Advanced Programming Techniques"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20327"
+    - code: "ComS 352"
+      title: "Intro to Operating Systems"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20352"
+    - code: "ComS 363"
+      title: "Intro to Database Management Systems"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20363"
+    - code: "ComS 415"
+      title: "Software System Safety"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20415"
+    - code: "ComS 430"
+      title: "Advanced Programming Tools"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20430"
+    - code: "ComS 435"
+      title: "Algorithms for Large Data Sets"
+      link: "http://catalog.iastate.edu/search/?P=COM%20S%20435"
+    - code: "SE 329"
+      title: "Software Project Management"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20329"
+    - code: "SE 339"
+      title: "Software Architecture & Design"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20339"
+    - code: "SE 342"
+      title: "Principles of Programming Languages"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20342"
+    - code: "SE 417"
+      title: "Software Testing"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20417"
+    - code: "SE 421X"
+      title: "Software Safety Analysis"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20421"
+    - code: "SE 491"
+      title: "Senior Design Project I"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20491"
+    - code: "SE 492"
+      title: "Senior Design Project II"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20492"
+    - code: "SE 494"
+      title: "SE Portfolio Development"
+      link: "http://catalog.iastate.edu/search/?P=S%20E%20494"
+    - code: "CprE 281"
+      title: "Digital Logic with Verilog Design"
+      link: "http://catalog.iastate.edu/search/?P=CPR%20E%20281"
+    - code: "CprE 332"
+      title: "Cyber Defense Competition"
+      link: "http://catalog.iastate.edu/search/?P=CPR%20E%20332"
+    - code: "STAT 330"
+      title: "Probability & Statistics for Computer Science"
+      link: "http://catalog.iastate.edu/search/?P=STAT%20330"
+    - code: "Udacity"
+      title: "Intro to Machine Learning (ud120)"
+      link: "https://www.udacity.com/course/intro-to-machine-learning--ud120"
+    - code: "Qwiklabs"
+      title: "Baseline: Data, ML, AI"
+      link: "https://run.qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
+    - code: "Qwiklabs"
+      title: "GCP Essentials"
+      link: "https://qwiklabs.com/public_profiles/3c931e6d-6c89-4ea8-9dcc-8025502a9dc0"
+    - code: "Lynda"
+      title: "Learning R"
+      link: "http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html"
+    - code: "Lynda"
+      title: "Content Marketing ROI"
+      link: "http://www.lynda.com/Marketing-tutorials/Content-Marketing-ROI/546102-2.html"
+    - code: "Lynda"
+      title: "Google 360 Suite Overview"
+      link: "http://www.lynda.com/Marketing-tutorials/Google-360-Suite-Overview/604251-2.html"
+    - code: "Lynda"
+      title: "Learning Graphic Design: Techniques"
+      link: "http://www.lynda.com/Design-Color-tutorials/Before-After-Graphic-Design-Techniques/110141-2.html"
+    - code: "MOS"
+      title: "Microsoft Office Specialist - Word 2010, Excel 2010"
+      link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
+  education:
+    - time:             "Jan 2014 - May 2018"
+      location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
+      description:      "BS in Software Engineering"
+      gpa:              "3.98"
+      awards:
+        - "Graduated Summa Cum Laude"
+        - "Named to the Dean's List each semester"
+        - "Top 2% of Engineering Juniors - Spring 2015"
+        - "Top 2% of Engineering Seniors - Spring 2016"
+        - "Top 2% of Engineering Seniors - Spring 2018"
+    - time:             "Aug 2013 - Nov 2013"
+      location:         "<a href=\"http://www.mayfieldcollege.edu/Side%20-%20HVAC.htm\" target=\"_blank\">Mayfield College, Twentynine Palms, CA</a>"
+      description:      "HVAC/R Level I - Electricity Advanced"
+      gpa:              "4.0"
+    - time:             "Aug 2005 - May 2007"
+      location:         "<a href=\"https://en.wikipedia.org/wiki/McNally_Smith_College_of_Music\" target=\"_blank\">McNally Smith College of Music, Saint Paul, MN</a>"
+      description:      "AAS in Music Performance"
+      gpa:              "3.94"
+    - time:             "Aug 2001 - May 2005"
+      location:         "<a href=\"https://www.centrallyon.org/\" target=\"_blank\">Central Lyon High School, Rock Rapids, IA</a>"
+      description:      "High School Diploma (Valedictorian)"
+      gpa:              "4.0"
+  employment:
+    - time:             "05.2018 - Present"
+      location:         "West Des Moines, IA"
+      company:          "<a href=\"https://www.zirous.com/\" target=\"_blank\">Zirous</a>"
+      position:         "Application Developer"
+      responsibilities:
+        - "At Zirous, we've provided IT Solutions to our customers for over 30 years. Our ultimate goal is to improve
+           our customer's business process by leveraging cutting edge technologies. We aim to increase efficiency,
+           productivity and profitability with Identity Management, Integration, Data Analytics, Hadoop/Big Data,
+           Cloud, and Database."
+        - "I currently work as part of the Data Analytics team, with a focus on expanding our machine learning
+           capabilities and our ability to deploy machine learning solutions in a cloud environment. I spend my
+           days developing and supporting software development for clients and/or researching technologies
+           to advance our Data Analytics practice area."
+        - "Our company is generally platform-agnostic, meaning we're not necessarily a 'Java shop' or likewise
+           tied to any specific tech stack. We use whatever technology best addresses our clients' needs. That
+           being said, our <a href=\"https://www.zirous.com/partnerships/\" target=\"_blank\">strategic
+           partnerships</a> with companies like Oracle and Cloudera allow us greater access and support to
+           leverage those technologies in our solutions, so oftentimes the best solution involves using
+           familiar technology and following best practices."
+    - time:             "03.2017 - 12.2017"
+      location:         "Ames, IA"
+      company:          "<a href=\"https://www.iastate.edu/\" target=\"_blank\">Iowa State University</a>"
+      position:         "Research Assistant"
+      responsibilities:
+        - "Delivered two unique, scalable solutions for aggregating and managing the clients' research data."
+        - "One solution moved the client's existing spreadsheet data management process into a relational
+           database with a web interface."
+        - "The other solution played audio samples for the research participants, collected survey responses,
+           stored the survey data alongside correlated demographic information, and provided an administrative
+           interface to upload audio or download survey results. More information can be found on the
+           <a href=\"project/l2_speech_ratings\" target=\"_blank\">L2 Speech Ratings project page</a>."
+        - "Gathered requirements; generated proposals; designed, implemented, and tested the software; and deployed
+           the final products."
+        - "Leveraged ISU’s Drupal website infrastructure to provide an interface for data management."
+        - "Designed the database schema for both projects, creating custom rules to join tabular data along
+           common keys to reduce duplication and increase data cohesiveness."
+        - "Architected and implemented a custom web application to serve as an audio-rating platform."
+        - "Adapted to client requests to migrate the solution to Amazon Mechanical Turk midway through the project."
+        - "Maintained open lines of communication with the clients to solicit feedback throughout the design and
+           development process to ensure the solution was meeting the clients' goals."
+    - time:             "05.2017 - 08.2017"
+      location:         "Eagan, MN"
+      company:          "<a href=\"https://www.leidos.com/\" target=\"_blank\">Leidos</a>"
+      position:         "College Tech Spec Intern"
+      responsibilities:
+        - "Iteratively developed and released the next generation of functionality for the Automated Flight Service
+           Station (AFSS) project's 1800wxbrief.com platform."
+        - "Worked on both frontend (JavaScript) and backend (Java, bash, perl) development efforts to deliver features
+           for the Winds Aloft portion of the platform."
+        - "Quickly identified as the JavaScript expert and trusted to deliver key user functionality."
+        - "Designed and implemented a dependency analysis tool that constructed a graph of script dependencies to
+           facilitate runtime optimization."
+        - "Rewrote several existing scripts to decrease test runtime by multiple orders of magnitude (from several
+           minutes down to a fraction of a second)."
+        - "Architected a major refactor to enable common code reuse."
+        - "Created a browser extension to facilitate more efficient development processes."
+        - "Given a classified clearance level to work on FAA projects."
+        - "Delivered status updates and live demos to 100+ stakeholders on a bi-weekly basis."
+    - time:             "05.2016 - 08.2016"
+      location:         "Ames, IA"
+      company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
+      position:         "Software Engineering Intern"
+      responsibilities:
+        - "Worked on the same spreadsheet application as during the previous summer. This summer, however,
+           the product was in production."
+    - time:             "05.2015 - 08.2015"
+      location:         "Ames, IA"
+      company:          "<a href=\"https://www.workiva.com/\" target=\"_blank\">Workiva</a>"
+      position:         "Software Engineering Intern"
+      responsibilities:
+        - "Developed the frontend (Google Dart) for the spreadsheet web application in the Wdesk platform.
+           During this summer, the product was still in research in development."
+        - "Developed new features and fixed bugs in an agile (scrum/kanban) environment."
+        - "Headed a browser compatibility project, delivering key insights to the team for future development."
+        - "Wrote, tested, and reviewed code to deliver high quality results and customer satisfaction."
+        - "Designed and developed an innovative solution to bring a feature in alignment with industry standards."
+        - "Worked with the Atlassian software suite (Jira, Bamboo, etc)."
+    - time:             "02.2009 - 02.2014"
+      location:         "Twentynine Palms, CA"
+      company:          "<a href=\"https://www.marines.com/\" target=\"_blank\">US Marine Corps</a>"
+      position:         "Infantry Rifleman"
+      responsibilities:
+        - "As a Marine 0311 Rifleman, I trained for combat and deployed to combat zones."
+        - "As the Platoon Radio Operator, I operated radio communication equipment in support of a 30+ man element."
+        - "As Training NCO, I facilitated company training by maintaining databases, schedules, and personnel rosters for 180+ Marines."
+        - "As Company Police Sergeant, I interfaced with supply, ordered and inventoried company
+           logistics, scheduled maintenance for the bachelor enlisted quarters, prepared all
+           logistics for transport during field operations, and tracked thousands of rounds of
+           ammunition and high-value items."
+        - "As Company-Level Intelligence Cell NCO In Charge, I lead the company intelligence effort,
+           which included collecting and analyzing data, producing various types of intelligence
+           reports, briefing company leadership, and debriefing combat patrols."
+        - "As a Rifle Squad Leader, I lead and supervised the training and development of a 12 man infantry element."
+        - "<a href=\"/assets/marinecorps/Meritorious_Promotions.pdf\" target=\"_blank\">Meritoriously promoted</a> to Lance Corporal and to Corporal."
+        - "Awarded the <a href=\"/assets/marinecorps/NAM-Award.pdf\" target=\"_blank\">Navy and Marine Corps Achievement Medal</a> for service in Afghanistan."
+        - "Awarded <a href=\"/assets/marinecorps/CertComs.pdf\" target=\"_blank\">four Certificates of Commendation</a> and various other awards during my time in service."
+        - "Named Battalion NCO of the Quarter in 2013."
+    - time:             "10.2007 - 02.2008"
+      location:         "Miami, FL"
+      company:          "<a href=\"https://www.carnival.com/\" target=\"_blank\">Carnival Cruise Lines</a>"
+      position:         "Showband Musician"
+      responsibilities:
+        - "Lived and worked aboard a cruise ship playing drums."
+        - "Responsible for learning, rehearsing, and performing the music for the various shows."
+        - "Performed in the show band and various lounge bands."
+  career_objectives:
+    - "Work at a consulting company where I have the opportunity to work on many different projects and continue to learn and grow my skill set."
+    - "Volunteer my services or contribute in a technical capacity to one or more non-profit organizations."
+    - "Launch a successful start-up business."
+  projects:
+    - title:            "Electronic Document Filing Application"
+      client:           "Government Agency"
+      position:         "Application Developer"
+      description:      "Zirous developed an application years ago to facilitate the client being able to receive,
+          distribute, and publish documents from their customers. I maintained this system and provided
+          support for ad-hoc requests, troubleshooting, and development."
+      technologies:     "Java, Struts, Oracle PL/SQL, WebLogic, BPEL"
+      url:              false
+      responsibilities:
+        - "Developed SQL queries to generate custom reports."
+        - "Provided timely responses and solutions to ad-hoc requests, communicating effectively to gather
+           requirements and deliver on-target solutions."
+        - "Implemented monitoring processes to ensure successful delivery of critical email notifications."
+    - title:            "Machine Learning POC"
+      client:           "Food Production and Distribution Company"
+      position:         "Application Developer"
+      description:      "The client used Oracle E-Business Suite to manage its various manufacturing processes.
+          It struggled with intermittent “hanging process” issues within the system, which led to wasted time and
+          resources. The notification system that raised alerts for hanging processes was inefficient, missing many
+          cases and having a high rate of false alarms. This proof-of-concept project demonstrated the ability of
+          statistical analysis and machine learning to more accurately identify hanging processes and reduce the
+          rate of false alarms."
+      technologies:     "Python, Jupyter Notebook, Oracle, XGBoost, Scikit-learn"
+      url:              false
+      responsibilities:
+        - "Configured the database connection, allowing data to be pulled from an Oracle database
+           into a Python notebook."
+        - "Created an effective machine learning model to predict whether or not a concurrent program would
+           hang. This involved data discovery, data cleaning, feature engineering, model selection, hyperparameter
+           tuning, model training, and evaluation. The final model caught more than 4x as many hanging processes
+           as the existing system, while decreasing false alerts by 70%."
+    - title:            "H2O Driverless AI POC"
+      client:           "Worker's Compensation Insurance Company"
+      position:         "Application Developer"
+      description:      "This client was exploring various machine learning frameworks to expand their data
+          analytics capabilities. As part of this effort, they hired Zirous to test-drive and report on the
+          capabilities of the enterprise-level AI platform, H2O Driverless AI."
+      technologies:     "H2O Driverless AI, Python, Google Cloud Platform"
+      url:              false
+      responsibilities:
+        - "Provisioned, configured, integrated, and secured all Google Cloud Platform (GCP) resources used in the
+           project, to include Compute instances, marketplace deployments, Identity and Access Management (IAM),
+           networking and firewall rules, Cloud Storage, BigQuery, and Datalab."
+        - "Created an end-to-end machine learning pipeline, which was able to import the data, perform
+           extract-transform-load (ETL) to clean and shape the data, train a machine learning model, evaluate
+           the training results, save and version model artifacts, and deploy the model to a load-balanced CPU
+           cluster in the cloud as an HTTP endpoint."
+        - "Co-authored the final 62-page report documenting data analysis, product insights, platform usage
+           instructions, model operationalization processes, and cloud configuration details."
+    - title:            "Hammer IO"
+      client:           "Senior Design Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "Node.js, Docker, Travis, React, Express.js, GitHub API, Firebase, Heroku, CodeCov"
+      url:              "https://hammer-io.github.io/"
+      responsibilities:
+        - "Created a DevOps framework offering an opinionated approach to developing and managing
+           microservice applications in Node.js"
+        - "Integrated various web services and APIs into the development processes and into the deployed software"
+        - "Designed, implemented, tested, and deployed multiple products supporting the same overarching objective"
+        - "Thoroughly documented the project plans and architecture in preparation for project handoff"
+        - "<a href=\"https://hammer-io.github.io/docs/Final_Report_Spring_2018.pdf\" target=\"_blank\">Final Report</a>"
+        - "<a href=\"https://hammer-io.github.io/docs/Poster_Spring_2018.pdf\" target=\"_blank\">Poster Display (infographic)</a>"
+    - title:            "L2 Speech Ratings"
+      client:           "Iowa State University"
+      position:         "Research Assistant"
+      description:      false
+      technologies:     "Php, JavaScript, HTML, CSS, Bootstrap, AMT"
+      url:              "/project/l2_speech_ratings"
+      responsibilities:
+        - "L2 Speech Ratings was a web application for collecting audio file ratings."
+        - "Facilitated the research of Dr. Charles Nagle in the field of second-language learning."
+        - "Featured the ability to upload files, create rating surveys, collect ratings from users, and download the results as a CSV file."
+        - "Used Google OAuth2 for user login; featured admin user types and rater user types."
+        - "Later adapted the project requirements to use Amazon Mechanical Turk (AMT)"
+    - title:            "SmartSync"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "Angular2, Spring Boot (Java), Bootstrap, HTML, CSS, REST, bash"
+      url:              "/project/smartsync"
+      responsibilities:
+        - "An online dashboard application to sync a user's accounts, IoT devices, and other tech."
+        - "Designed and implemented for our semester-long Software Architecture (SE 339) project."
+        - "Used Angular2 SB Admin framework for the frontend."
+        - "The backend consisted of a Java Spring microservices architecture."
+        - "The project was used the following semester by the professor as a case study and as a lab for SE 339 students."
+    - title:            "Codable Media Mashup"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "Java, ANTLR, bash"
+      url:              "/project/codable_media_mashup"
+      responsibilities:
+        - "CoMM is a language and CLI interpreter I devised to slice and join online video clips."
+        - "Uses ANTLR to generate the parser and lexer."
+        - "The interpreter transpiles the CoMM language into a shell script, and then executes the shell script."
+        - "As my first attempt at writing a language (the attempt being made before taking Principles of Programming), the functionality is very limited."
+    - title:            "Mines of MIDIa"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "JavaScript, Php, MIDI, SVG, HTML, CSS"
+      url:              "/project/mines_of_midia"
+      responsibilities:
+        - "Teaches the user to play drums through MIDI file play-alongs and sheet music."
+        - "Allows the user to upload, search for, play, and rate MIDI files."
+        - "Features a visual drumset that highlights which specific drums are being played during playback."
+        - "Generates sheet music from the MIDI file being played."
+    - title:            "browser_cli"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "Dart, HTML, CSS"
+      url:              "/project/browser_cli"
+      responsibilities:
+        - "An extensible command line interface for the browser."
+        - "Combines the benefits of a web UI with the look and feel of a command line interface, meaning that power users get the quick, command-entry interaction they love while still being able to output whatever HTML content you would normally see in a web application."
+        - "Comes with a set of standard library processes, but allows the user to easily create custom processes specific to their own needs."
+    - title:            "nextbus"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "C++, XML, REST"
+      url:              "/project/nextbus"
+      responsibilities:
+        - "Gives NextBus predictions through the command line interface."
+        - "Operates by curling from the NextBus API, parsing relevant information from the XML, and displaying that information to the user."
+        - "Features the ability to save route/stop combinations for easy reference."
+    - title:            "Beatnik Encryption"
+      client:           "Class Project"
+      position:         "SE Student"
+      description:      false
+      technologies:     "JavaScript, Php, HTML, CSS"
+      url:              "/project/beatnik_encryption"
+      responsibilities:
+        - "Uses the esoteric language Beatnik to encrypt/decrypt a base64-encoded string."
+        - "The string, once encrypted, looks like an avant-garde poem."
+        - "Beatnik, a stack-based language, uses the Scrabble score of words as the program's operations and values."
