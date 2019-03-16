@@ -159,10 +159,10 @@ nkarasch:
   education:
     - time:             "Jan 2014 - May 2018"
       location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
-      description:      "BS in Software Engineering"
+      description:      "Bachelor of Science: Software Engineering"
       gpa:              "3.98"
       awards:
-        - "Graduated Summa Cum Laude"
+        - "Summa Cum Laude"
         - "Named to the Dean's List each semester"
         - "Top 2% of Engineering Juniors - Spring 2015"
         - "Top 2% of Engineering Seniors - Spring 2016"
@@ -173,12 +173,14 @@ nkarasch:
       gpa:              "4.0"
     - time:             "Aug 2005 - May 2007"
       location:         "<a href=\"https://en.wikipedia.org/wiki/McNally_Smith_College_of_Music\" target=\"_blank\">McNally Smith College of Music, Saint Paul, MN</a>"
-      description:      "AAS in Music Performance"
+      description:      "Associate in Applied Science: Music Performance - Percussion"
       gpa:              "3.94"
     - time:             "Aug 2001 - May 2005"
       location:         "<a href=\"https://www.centrallyon.org/\" target=\"_blank\">Central Lyon High School, Rock Rapids, IA</a>"
-      description:      "High School Diploma (Valedictorian)"
+      description:      "High School Diploma"
       gpa:              "4.0"
+      awards:
+        - "Valedictorian"
   employment:
     - time:             "05.2018 - Present"
       location:         "West Des Moines, IA"
@@ -255,7 +257,7 @@ nkarasch:
         - "Developed new features and fixed bugs in an agile (scrum/kanban) environment."
         - "Headed a browser compatibility project, delivering key insights to the team for future development."
         - "Wrote, tested, and reviewed code to deliver high quality results and customer satisfaction."
-        - "Designed and developed an innovative solution to bring a feature in alignment with industry standards."
+        - "Designed and developed an innovative solution to bring one of the features in alignment with industry standards."
         - "Worked with the Atlassian software suite (Jira, Bamboo, etc)."
     - time:             "02.2009 - 02.2014"
       location:         "Twentynine Palms, CA"
@@ -356,10 +358,21 @@ nkarasch:
     - title:            "L2 Speech Ratings"
       client:           "Iowa State University"
       position:         "Research Assistant"
-      description:      false
-      technologies:     "Php, JavaScript, HTML, CSS, Bootstrap, AMT"
-      url:              "/project/l2_speech_ratings"
+      description:      "Two clients required unique, scalable solutions for aggregating and managing their
+          research data. One solution moved the client’s existing spreadsheet data management process into a
+          relational database with a web interface. The other solution,
+          <a href=\"https://krashdev.com/project/l2_speech_ratings\">L2 Speech Ratings</a>,
+          played audio samples for the research participants, collected survey responses, stored the survey
+          data alongside correlated demographic information, and provided an administrative interface to
+          upload audio or download survey results."
+      technologies:     "Drupal, Php, JavaScript, HTML, CSS, Bootstrap, AMT"
+      url:              false
       responsibilities:
+        - "Leveraged ISU’s Drupal website infrastructure to provide an interface for data management"
+        - "Designed the database schema for both projects, creating custom rules to join tabular data along common keys to reduce duplication and increase data cohesiveness"
+        - "Architected and implemented a custom web application to serve as an audio-rating platform"
+        - "Adapted to client requests to migrate the solution to Amazon Mechanical Turk (AMT) midway through the project"
+        - "Maintained open lines of communication with the clients to solicit feedback throughout the design and development process to ensure the solution was meeting the clients’ goals"
         - "L2 Speech Ratings was a web application for collecting audio file ratings."
         - "Facilitated the research of Dr. Charles Nagle in the field of second-language learning."
         - "Featured the ability to upload files, create rating surveys, collect ratings from users, and download the results as a CSV file."

@@ -1,5 +1,5 @@
 # KrashDev.com Portfolio
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/KrashLeviathan/krashleviathan.github.io/blob/master/LICENSE)
 
 **Live Site:** [https://krashdev.com/](https://krashdev.com/)
 

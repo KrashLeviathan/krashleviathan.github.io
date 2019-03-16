@@ -300,6 +300,10 @@ ul.technologies-list {
     white-space: normal;
 }
 
+ul.technologies-list li {
+    margin: 0;
+}
+
 @media screen and (min-width: 550px) {
     ul.technologies-list {
         display: inline-block;

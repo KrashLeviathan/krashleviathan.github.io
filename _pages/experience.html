@@ -54,7 +54,14 @@ excerpt:   This page contains information about the author's employment, educati
         <dd>
             <h3>{{entry.location}}</h3>
             <p>{{entry.description}}</p>
-	    <p>GPA: {{entry.gpa}}</p>
+            <p>GPA: {{entry.gpa}}</p>
+            {% if entry.awards %}
+            <ul>
+                {% for award in entry.awards %}
+                <li>{{award}}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
         </dd>
     </dl>
     {% endfor %}

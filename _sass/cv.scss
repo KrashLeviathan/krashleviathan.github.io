@@ -57,6 +57,13 @@
     & > * {
         padding: 0 25px 0 25px;
     }
+
+    &.education li {
+        font-style: italic;
+        margin: 0;
+        line-height: 1.5;
+        font-size: 1.3rem;
+    }
 }
 
 
