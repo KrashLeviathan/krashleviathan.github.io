@@ -324,7 +324,7 @@ nkarasch:
            tuning, model training, and evaluation. The final model caught more than 4x as many hanging processes
            as the existing system, while decreasing false alerts by 70%."
     - title:            "H2O Driverless AI POC"
-      client:           "Worker's Compensation Insurance Company"
+      client:           "Workers' Compensation Insurance Company"
       position:         "Application Developer"
       description:      "This client was exploring various machine learning frameworks to expand their data
           analytics capabilities. As part of this effort, they hired Zirous to test-drive and report on the
