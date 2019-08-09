@@ -11,8 +11,8 @@ nkarasch:
        My effective written and verbal communication skills help keep development efforts aligned with customer
        expectations, ensuring the right solution is delivered the first time and reducing wasteful rework. As a
        consultant, I excel at identifying pain points in development processes and presenting thoughtful solutions
-       to maximize efficiency and increase return on investment. My recent work focus has been in the application
-       of data science and machine learning techniques to build intelligent systems."
+       to maximize efficiency and increase return on investment. Complimenting my development knowledge is a
+       thorough understanding of the data science and machine learning techniques needed to build intelligent systems."
     - "One of the things I love about software development is the ability
        to create something tangible that can benefit and delight users. My primary passion in my younger days was
        creating music, but now I get to pour my energies into creating software! I believe in continual
@@ -32,13 +32,13 @@ nkarasch:
     - "Selecting and integrating various cloud services to create scalable project infrastructures"
   technologies:
     - "Java"
-    - "Java Spring"
+    - "Java Spring / Struts"
     - "Java concurrency"
     - "MySQL"
     - "Oracle PL/SQL"
     - "HTML / CSS / SCSS"
     - "REST / SOAP / RPC"
-    - "JavaScript / Node.js"
+    - "JavaScript / ES6 / Node.js"
     - "Angular / React"
     - "Python / R"
     - "Google Dart / TypeScript"
@@ -159,6 +159,9 @@ nkarasch:
     - code: "MOS"
       title: "Microsoft Office Specialist - Word 2010, Excel 2010"
       link: "https://www.microsoft.com/en-us/learning/mos-certification.aspx"
+    - code: "NFJS 2019"
+      title: "No Fluff Just Stuff 2019 Conference, Des Moines"
+      link: "/assets/pdfs/NFJS_2019_Certificate.pdf"
   education:
     - time:             "Jan 2014 - May 2018"
       location:         "<a href=\"http://www.se.iastate.edu/\" target=\"_blank\">Iowa State University, Ames, IA</a>"
@@ -295,12 +298,32 @@ nkarasch:
     - "Volunteer my services or contribute in a technical capacity to one or more non-profit organizations."
     - "Launch a successful start-up business."
   projects:
+    - title:            "Lab Application"
+      client:           "Biofuel Company"
+      position:         "Application Developer"
+      description:      "This company’s lab processes biofuel samples submitted by their facilities across the
+          US, and for years they had used Excel spreadsheets to track samples through the process from beginning
+          to end. In an effort to streamline this process, the company hired Zirous to create a web application to
+          facilitate submission, processing, administration, and analysis of lab requests. I performed most of the
+          architecture, design, and front-end development for this project."
+      technologies:     "Angular, Java Spring, SQL Server, Docker, Apache, Tomcat, REST, Bash, Node.js, Jira, Bitbucket"
+      url:              false
+      responsibilities:
+        - "Designed, documented, developed, tested, and deployed the application."
+        - "Performed requirements gathering, translating requirements and design decisions into an actionable
+           plan by creating user stories and subtasks in Atlassian Jira."
+        - "Implemented the entire front-end (web user interface) in Angular, and provided contributions to the
+           Java Spring back-end component."
+        - "Assisted with implementation aspects of the Java Spring back-end."
+        - "Coordinated meetings, sent weekly project updates, gathered and integrated client feedback, and
+           demoed project milestones."
     - title:            "Electronic Document Filing Application"
       client:           "Government Agency"
       position:         "Application Developer"
       description:      "Zirous developed an application years ago to facilitate the client being able to receive,
           distribute, and publish documents from their customers. I maintained this system and provided
-          support for ad-hoc requests, troubleshooting, and development."
+          support for ad-hoc requests, troubleshooting, and development. I also assisted in the system's upgrade
+          and migration to the cloud."
       technologies:     "Java, Struts, Oracle PL/SQL, WebLogic, BPEL"
       url:              false
       responsibilities:
@@ -308,6 +331,10 @@ nkarasch:
         - "Provided timely responses and solutions to ad-hoc requests, communicating effectively to gather
            requirements and deliver on-target solutions."
         - "Implemented monitoring processes to ensure successful delivery of critical email notifications."
+        - "Coordinated and implemented integration with a third-party vendor system to support the client's
+           billing process."
+        - "Researched, implemented, and documented changes needed to upgrade the Struts application to current
+           major version of Java and Oracle."
     - title:            "Machine Learning POC"
       client:           "Food Production and Distribution Company"
       position:         "Application Developer"
