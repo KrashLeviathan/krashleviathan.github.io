@@ -75,6 +75,8 @@ Feature: Searching the Zirous website displays relevant results
      | Machine Learning Spark | Navigating Machine Learning Obstacles |
 ```
 
+</figure>
+
 This is something your business users can read, understand, and even help to write. It
 clearly defines the expected behavior for the software. You could even hand this to a
 tester to perform the test manually. However, it can be a little verbose, considering
