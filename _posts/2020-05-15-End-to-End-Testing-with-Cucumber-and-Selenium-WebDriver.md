@@ -59,6 +59,7 @@ as written in the *Gherkin* [^7] syntax:
 
 <figure>
     <figcaption>Feature written in the Gherkin syntax</figcaption>
+</figure>
 
 ```gherkin
 Feature: Searching the Zirous website displays relevant results
@@ -75,8 +76,6 @@ Feature: Searching the Zirous website displays relevant results
      | Machine Learning Spark | Navigating Machine Learning Obstacles |
 ```
 
-</figure>
-
 This is something your business users can read, understand, and even help to write. It
 clearly defines the expected behavior for the software. You could even hand this to a
 tester to perform the test manually. However, it can be a little verbose, considering
@@ -86,6 +85,7 @@ a Scenario Outline:
 
 <figure>
     <figcaption>Feature written using Scenario Outline</figcaption>
+</figure>
 
 ```gherkin
 Feature: Searching the Zirous website displays relevant results
@@ -109,8 +109,6 @@ Feature: Searching the Zirous website displays relevant results
      | cloud infra      | Cloud Has Your Back    | Shroud of the Cloud       |
      | java development | Landing Your Dream Job | NiFi vs. Kafka… Or Is It? |
 ```
-
-</figure>
 
 In this way, you can test a multitude of inputs to make sure you’re hitting any edge
 cases in the application logic. The great thing about Cucumber is that, because these
@@ -181,6 +179,7 @@ version.
 
 <figure>
     <figcaption>Contents of the pom.xml file</figcaption>
+</figure>
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -270,8 +269,6 @@ version.
 </project>
 ```
 
-</figure>
-
 Once that’s ready, run the `mvn compile`
 command, which will (among other things) attempt to locate and download the dependencies.
 If there are any errors with the dependencies, correct them before proceeding.
@@ -333,6 +330,7 @@ it will be using.
 
 <figure>
     <figcaption>Basic (though not yet complete) JUnit test definition</figcaption>
+</figure>
 
 ```java
 import io.cucumber.junit.Cucumber;
@@ -344,8 +342,6 @@ import org.junit.runner.RunWith;
 public class SiteSearchTest {
 }
 ```
-
-</figure>
 
 We’re going to add a few small changes to this test later when we set up Selenium.
 
@@ -399,6 +395,7 @@ Here’s the code for our step definitions file:
 
 <figure>
     <figcaption>Contents of SiteSearchStepDefs.java</figcaption>
+</figure>
 
 ```java
 import io.cucumber.datatable.DataTable;
@@ -491,8 +488,6 @@ public class SiteSearchStepDefs implements En {
 }
 ```
 
-</figure>
-
 ## Step 6: Add setup logic for Selenium WebDriver
 
 Finally, let’s encapsulate all the driver setup logic in a single class that
@@ -504,6 +499,7 @@ your web drivers.
 
 <figure>
     <figcaption>The base SeleniumTest class to be extended by all JUnit tests using Selenium</figcaption>
+</figure>
 
 ```java
 import org.openqa.selenium.PageLoadStrategy;
@@ -617,14 +613,13 @@ public class SeleniumTest {
 }
 ```
 
-</figure>
-
 The last thing we need to do is to update our JUnit test to extend the
 SeleniumTest class. We also add a JUnit `@AfterClass` method to perform
 cleanup actions with the web driver.
 
 <figure>
     <figcaption>Updated version of our SiteSearchTest class</figcaption>
+</figure>
 
 ```java
 @RunWith(Cucumber.class)
@@ -636,8 +631,6 @@ public class SiteSearchTest extends SeleniumTest {
    }
 }
 ```
-
-</figure>
 
 ## Running the Tests
 
