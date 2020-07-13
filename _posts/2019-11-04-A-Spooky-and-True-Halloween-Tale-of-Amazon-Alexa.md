@@ -109,7 +109,7 @@ and then executing that action.
 
 For example, consider my four-year-old’s query from the machine’s point of view:
 
-*“Play there was an old lady who swallowed a bat.”*
+> “Play there was an old lady who swallowed a bat.”
 
 - **Voice Analysis:** *Who is the speaker?* Alexa *may* be able to tell distinct individuals
   apart, but it clearly wasn’t smart enough to recognize that 1) it was a young child, and 2) that
@@ -130,9 +130,9 @@ For example, consider my four-year-old’s query from the machine’s point of v
 
 Granted, this is a rough approximation of only a *fraction* of the systems and models involved
 in a single interaction. Artificial intelligence software today can do a really good job at
-these sorts of individual tasks — even chaining them together to produce meaningful
-results — but it’s still a very long way from achieving general intelligence, a term that
-roughly means “the ability to perform any task a human can.”
+these sorts of individual tasks — even chaining them together to produce meaningful results — but
+[it’s still a very long way from achieving general intelligence](https://www.theverge.com/2018/11/27/18114362/ai-artificial-general-intelligence-when-achieved-martin-ford-book){:target="_blank"},
+a term that roughly means “the ability to perform any task a human can.”
 
 ## Surviving the jump scares and hoping for happy endings
 
@@ -149,14 +149,16 @@ Unsupervised learning techniques help companies spot fraudulent activity on a sc
 larger than humans would be able to handle. In healthcare, machine learning models process
 disparate patient information to help doctors diagnose diseases. The democratization of AI
 and machine learning is allowing researchers to better understand the ocean pollution problem.
-Scientists and conservationists use image processing algorithms to help track marine wildlife
+Scientists and conservationists use image processing algorithms to help
+[track marine wildlife](https://www.flukebook.org/){:target="_blank"}
 using submitted whale fluke (tail) photos. This small smattering of use cases represents only
 a fraction of the systems developed and being used for social good.
 
 I have no doubt that smart devices will continue to steadily improve, and I’m willing to ride
 out the growing pains to see where the technology will go. More than that, I’m excited to be
-part of these formative years, working for a company that helps others effectively implement
-machine learning and AI solutions. Despite the concerns being raised by many about the dangers
+part of these formative years, working for a company that
+[helps others effectively implement machine learning and AI solutions](https://www.zirous.com/solutions/machine-learning-artificial-intelligence/){:target="_blank"}.
+Despite the concerns being raised by many about the dangers
 of such technology, I’m hopeful that we can, as a society, collectively shape it for a brighter
 future. Smart devices are still in their adolescence, so they can be expected to excite us one
 moment and disappoint us the next; to simplify some aspects of our lives while complicating
