@@ -88,9 +88,7 @@ out between 3000 and 4000 words.
             github.com/KrashLeviathan/beatnik_encryption
         </a></dd>
         <dt>Live Website</dt>
-        <dd><a href="https://beatnikencryption.krashdev.com/" target="_blank">
-            beatnikencryption.krashdev.com/
-        </a></dd>
+        <dd><s>beatnikencryption.krashdev.com/</s> (no longer exists)</dd>
         <dt>Started</dt>
         <dd>12 October 2016</dd>
         <dt>Completed</dt>

@@ -1,10 +1,9 @@
 language: ruby
 cache: bundler
+os: linux
 
 rvm:
-  - 2.1
-  - 2.2
-  - 2.3.0
+  - 2.5
 
 install:
   - gem install github-pages
@@ -24,7 +23,5 @@ branches:
   only:
   - gh-pages     # test the gh-pages branch
   - /pages-(.*)/ # test every branch which starts with "pages-"
-
-sudo: false
 
 # Check validity of the file via: http://lint.travis-ci.org/

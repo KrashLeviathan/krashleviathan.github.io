@@ -28,7 +28,7 @@ was in the Mines of Moria that Gandalf read aloud from the last few lines in
 the Book of Mazarbul, "We hear drums, drums in the deep." A bit nerdy, yes,
 but such was our sense of humor at times! As of November 2016, Charlie (Gregory)
 was planning on continuing work on the site under the less nerdy name,
-[http://drumitdown.com/](DrumItDown.com).
+DrumItDown.com (which no longer exists).
 
 The site makes use of a JavaScript library called MIDI.js for processing the
 MIDI files. It wasn't a very well-documented library, so it took a bit of
@@ -57,7 +57,7 @@ represented in MIDI at all.
             github.com/csteamengine/drum_it_down
         </a></dd>
         <dt>Live Website</dt>
-        <dd><a href="http://www.drumitdown.com/" target="_blank">DrumItDown.com</a></dd>
+        <dd><s>DrumItDown.com</s> (no longer exists)</dd>
         <dt>Started</dt>
         <dd>18 October 2016</dd>
         <dt>Completed</dt>
