@@ -138,16 +138,16 @@ years:
                 <a href="https://github.com/KrashLeviathan/coms311_pa2" target="_blank">web crawler</a>).</dd>
             <dt>Com S 352</dt>
             <dd>Various programming assignments dealing with operating system design (for example, implementing a
-                <a href="https://github.com/KrashLeviathan/wsh" target="_blank">shell</a> application).</dd>
+                shell application).</dd>
             <dt>Com S 342</dt>
             <dd>Various programming assignments dealing with programming language design.</dd>
             <dt>Com S 417</dt>
             <dd>Various programming assignments dealing with software testing.</dd>
             <dt>Com S 435</dt>
             <dd>Various programming assignments dealing with algorithms for large data sets (for example, computing
-                <a href="https://github.com/KrashLeviathan/coms435_pa2" target="_blank">similarity among documents</a>).</dd>
+                similarity among documents).</dd>
             <dt>SE 491</dt>
-            <dd>Part 1 of a two-semester long <a href="{{site.baseurl}}/senior-design" target="_blank">senior design project</a>.</dd>
+            <dd>Part 1 of a two-semester long <a href="https://hammer-io.github.io/" target="_blank">senior design project</a>.</dd>
             <dt>SE 494</dt>
             <dd>This portfolio website!</dd>
         </dl>

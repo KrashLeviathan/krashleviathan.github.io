@@ -192,10 +192,10 @@ on using bibliotherapy with older children:
 - [American Library Association \| Bibliotherapy](http://www.ala.org/tools/atoz/bibliotherapy){:target="_blank"}
 - [6 Best Websites for Bibliotherapy Resources](https://www.schoolsocialwork.net/bibliotherapy-resources/){:target="_blank"}
 - [Bibliotherapy Goldmine: Books on a Variety of Topics](http://clearlakechildrenscenter.com/resources/bibliotherapy/){:target="_blank"}
-- [Picture Books that Teach Young Kids About Sharing](http://abooklongenough.com/blog/picture-books-that-teach-young-kids-about-sharing){:target="_blank"}
+- Picture Books that Teach Young Kids About Sharing - <s>http://abooklongenough.com/blog/picture-books-that-teach-young-kids-about-sharing</s> (no longer exists)
 - [Pinterest "Books About Sharing"](https://www.pinterest.com/pin/1618549846542426/?lp=true){:target="_blank"}
-- [12 Children's Picture Books About Sharing](https://humaneeducation.org/blog/2014/12-childrens-picture-books-sharing/){:target="_blank"}
-- [Bibliotherapy Education Project](https://www.cmich.edu/colleges/ehs/bibliotherapy/Pages/default.aspx){:target="_blank"}
+- 12 Children's Picture Books About Sharing - <s>https://humaneeducation.org/blog/2014/12-childrens-picture-books-sharing/</s> (no longer exists)
+- Bibliotherapy Education Project - <s>https://www.cmich.edu/colleges/ehs/bibliotherapy/Pages/default.aspx</s> (no longer exists)
 
 
 ### Works Cited

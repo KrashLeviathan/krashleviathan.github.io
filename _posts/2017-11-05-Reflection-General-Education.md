@@ -69,7 +69,7 @@ with Empathy, described by Knct Lab (2015) as follows:
 > designer lies in synthesizing this within the context of their
 > design.
 >
-> <cite>—[The 5 steps of Design Thinking](http://www.knctlab.com/blog/5-steps-design-thinking){:target="_blank"}</cite>
+> <cite>—The 5 steps of Design Thinking - <s>http://www.knctlab.com/blog/5-steps-design-thinking</s> (no longer exists)</cite>
 
 To empathize with our users, we need to be able to view the world through
 their eyes. You need perspective. This is the sort of thing that general
@@ -179,7 +179,7 @@ their ultimate impact is to make us more effective members of society.
 
 Before graduation in May of 2018, I have a few major short-term goals,
 the most immediate of which is the launching of my wife's start-up
-business, [Lilia Grace](https://www.lilia-grace.com/){:target="_blank"},
+business, Lilia Grace,
 on November 13th. I've been helping setup the various online technologies,
 including the website, online store, ShipStation, MailChimp, etc. We're
 excited to see the response at launch, but it really is quite a lot of
