@@ -12,4 +12,6 @@ The site theme is based on the [Jekyll](https://jekyllrb.com/docs/home/) templat
 
 1. Install [Jekyll](), which requires Ruby (follow instructions on Jekyll site)
 2. Update Ruby: `gem update --system`
-3. Install bundle dependencies: `cd krashleviathan.github.io && bundle install`
+3. Install bundle dependencies: `bundle install`
+    - Update dependencies: `bundle update`
+4. Run locally: `bundle exec jekyll serve`
