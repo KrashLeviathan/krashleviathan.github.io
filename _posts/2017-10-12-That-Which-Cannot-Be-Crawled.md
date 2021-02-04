@@ -130,3 +130,9 @@ queue if the page is similar to another page it's already visited. This could po
 defeated by generating the page as randomly as possible to avoid any two pages being
 similar. I didn't dive down that rabbit hole, though, as I was just interested in
 exploring the concept. I'd love to hear if anyone else has seen or experimented with this though!
+
+- - -
+
+**Update:** One useful tool for debugging your `robots.txt` file is Website Planet's
+[Robots.txt Checker](https://www.websiteplanet.com/webtools/robots-txt/){:target="_blank"}.
+Thanks, Laurie, for the suggestion!
