@@ -1,3 +1,6 @@
 User-agent: *
-Disallow:
-Host: http://jwillmer.github.io/jekyllDecent
+Disallow: /assets/pdfs/Resume_Nathan_Karasch.pdf
+Disallow: /assets/marinecorps/Meritorious_Promotions.pdf
+Disallow: /assets/marinecorps/NAM-Award.pdf
+Disallow: /assets/marinecorps/CertComs.pdf
+Host: krashdev.com
