@@ -34,14 +34,14 @@ nkarasch:
     - "Java"
     - "Java Spring / Struts"
     - "Java concurrency"
+    - "Oracle SQL / PL/SQL"
     - "MySQL"
-    - "Oracle PL/SQL"
     - "HTML / CSS / SCSS"
     - "REST / SOAP / RPC"
     - "JavaScript / ES6 / Node.js"
-    - "Angular / React"
+    - "TypeScript / Google Dart"
+    - "Node.js / Angular"
     - "Python / R"
-    - "Google Dart / TypeScript"
     - "Php / Perl"
     - "C / C++"
     - "Linux / Bash"
@@ -191,20 +191,26 @@ nkarasch:
     - time:             "05.2018 - Present"
       location:         "West Des Moines, IA"
       company:          "<a href=\"https://www.zirous.com/\" target=\"_blank\">Zirous</a>"
-      position:         "Application Developer"
+      position:         "Development Manager / Application Developer"
       responsibilities:
-        - "At Zirous, we've provided IT Solutions to our customers for over 30 years. Our ultimate goal is to improve
+        - "I currently work as the Development Manager at Zirous. While <i>most</i> of my time is spent doing
+           application development for various clients, my mission as Development Manager is to strengthen our
+           strategic positioning for new application development work and to promote continued success in existing
+           development services."
+        - "Primary responsibilities as Development Manager:<ul>
+           <li>Provide leadership, mentoring, and direction for emerging Zirous developer resources.</li>
+           <li>Research and understand current technology trends as they pertain to business strategy.</li>
+           <li>Provide direction and strategy recommendations for Zirous company leadership.</li>
+           <li>Continue supporting existing billable work.</li>
+           </ul>"
+        - "At Zirous, we've provided IT Solutions to our customers for over 35 years. Our ultimate goal is to improve
            our customer's business process by leveraging cutting edge technologies. We aim to increase efficiency,
            productivity and profitability with Identity Management, Integration, Data Analytics, Hadoop/Big Data,
            Cloud, and Database."
-        - "I currently work as part of the Data Analytics team, with a focus on expanding our machine learning
-           capabilities and our ability to deploy machine learning solutions in a cloud environment. I spend my
-           days developing and supporting software development for clients and/or researching technologies
-           to advance our Data Analytics practice area."
         - "Our company is generally platform-agnostic, meaning we're not necessarily a 'Java shop' or likewise
            tied to any specific tech stack. We use whatever technology best addresses our clients' needs. That
            being said, our <a href=\"https://www.zirous.com/partnerships/\" target=\"_blank\">strategic
-           partnerships</a> with companies like Oracle and Cloudera allow us greater access and support to
+           partnerships</a> with companies like AWS, Microsoft, and Oracle allow us greater access and support to
            leverage those technologies in our solutions, so oftentimes the best solution involves using
            familiar technology and following best practices."
     - time:             "03.2017 - 12.2017"
