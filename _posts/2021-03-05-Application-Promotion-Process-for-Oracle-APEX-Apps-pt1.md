@@ -144,6 +144,11 @@ within the context of the APEX development platform.
 
 - - -
 
+This post was originally published on Zirous's blog, and can be found at
+[https://www.zirous.com/2021/03/05/application-promotion-process-for-oracle-apex-apps/](https://www.zirous.com/2021/03/05/application-promotion-process-for-oracle-apex-apps/){:target="_blank"}
+
+- - -
+
 [^1]: [https://apex.oracle.com/en/](https://apex.oracle.com/en/){:target="_blank"}
 [^2]: These special APEX tables and objects aren’t accessed by the developer directly — rather, they’re manipulated by the APEX platform.
 [^3]: The Quality Assurance (QA) environment is also commonly referred to as the Test environment
