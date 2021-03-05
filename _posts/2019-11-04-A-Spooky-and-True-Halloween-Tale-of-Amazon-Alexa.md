@@ -193,5 +193,5 @@ Artificial intelligence at this level has a long way to go.
 
 - - -
 
-This post was originally published on Zirous's blog, and can be found at
+This post was originally published on the Zirous blog and can be found at
 [https://www.zirous.com/2019/11/04/a-spooky-and-true-halloween-tale-of-amazon-alexa/](https://www.zirous.com/2019/11/04/a-spooky-and-true-halloween-tale-of-amazon-alexa/){:target="_blank"}

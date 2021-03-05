@@ -144,7 +144,7 @@ within the context of the APEX development platform.
 
 - - -
 
-This post was originally published on Zirous's blog, and can be found at
+This post was originally published on the Zirous blog and can be found at
 [https://www.zirous.com/2021/03/05/application-promotion-process-for-oracle-apex-apps/](https://www.zirous.com/2021/03/05/application-promotion-process-for-oracle-apex-apps/){:target="_blank"}
 
 - - -

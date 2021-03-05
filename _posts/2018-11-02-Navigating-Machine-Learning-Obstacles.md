@@ -146,7 +146,7 @@ research, including any warranties of merchantability or fitness for a particula
 
 - - -
 
-This post was originally published on Zirous's blog, and can be found at
+This post was originally published on the Zirous blog and can be found at
 [https://www.zirous.com/2018/11/02/navigating-machine-learning-obstacles/](https://www.zirous.com/2018/11/02/navigating-machine-learning-obstacles/){:target="_blank"}
 
 - - -
