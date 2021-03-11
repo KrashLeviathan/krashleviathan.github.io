@@ -18,6 +18,11 @@ promoting data used by the application, such as static lookup table records.
 
 [part1Link]: /blog/tech%20musings/Application-Promotion-Process-for-Oracle-APEX-Apps-pt1
 
+Note: You can also script the promotion process using PL/SQL and execute it using
+[Oracle SQLcl][sqlclLink]{:target="_blank"}, but that process is outside the scope of this article.
+
+[sqlclLink]: https://www.oracle.com/database/technologies/appdev/sqlcl.html
+
 ## Promoting APEX Applications
 
 In general, promotion is accomplished by exporting the App from one environment and importing it into another. Details
@@ -176,6 +181,33 @@ column to these types of tables and refer to the code whenever specific values a
 is important because neither a generated id column nor a display name column is guaranteed to remain consistent over
 time or across environments. A three-character string (defined as `CODE VARCHAR2(3 BYTE) UNIQUE NOT NULL`)
 makes a good lookup code column in most instances.
+
+## Putting it all together
+
+Having briefly discussed promoting the App, the database objects, and the data, let’s see how they all fit together to
+perform a full promotion.
+
+Since the App, DDL, and DML need to be promoted *together* and may take some time to complete, the first thing we need
+to do is disable the application so that users don’t try to use it while it’s in a partially-deployed state. To do this
+via the GUI, go to Shared Components → Application Definition Attributes → Availability, and set the Status to
+“Unavailable”.
+
+<figure>
+   <img src="{{site.baseurl}}/assets/apex-promotion/apex-promotion-6.png"
+        alt="Screenshot of the Availability Status on the Edit Application Definitions screen."/>
+   <figcaption>
+       Set the Availability Status to “Unavailable” before beginning a deployment.
+   </figcaption>
+</figure>
+
+Once that’s done, you can promote the DDL and DML, followed by the APEX Application itself. Once the App is imported
+into the target environment, the application’s availability status will be reset, so you shouldn’t have to worry about
+changing it back to “Available”. So the full sequence will look like this:
+
+1. Disable the Application you are about to promote
+2. Promote the database objects (DDL)
+3. Promote the database data (DML)
+4. Promote the APEX Application
 
 ## Conclusion
 
