@@ -225,3 +225,8 @@ also about the long-term success of your organization. For more information or t
 partner for your next project, please [contact us][zirousContactUs]{:target="_blank"}!
 
 [zirousContactUs]: http://www.zirous.com/contact
+
+- - -
+
+This article was originally published on the Zirous blog and can be found at
+[https://www.zirous.com/2021/03/12/application-promotion-process-for-oracle-apex-apps-part-ii/](https://www.zirous.com/2021/03/12/application-promotion-process-for-oracle-apex-apps-part-ii/){:target="_blank"}
